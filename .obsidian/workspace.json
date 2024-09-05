@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "36109af1e6f771bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a62c935d07627dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb9bac147094057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c205e70a0c5a790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Полнота тестирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d0eacc846b46f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Критерии белого ящика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7349799046e72e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Минимально грубое тестирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97f1fd97f63100f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Порядок работы над программой.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efad80d42e689dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Конспект по книге Тестирование и отладка программ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8ddcc818f891e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Конспект по книге Тестирование и отладка программ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2bc200412bf527a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Критерии черного ящика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43aae7673399b5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "075aedcd71c36d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c93b965ec146ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cf5268413860099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1159a1204f68f3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b48bd40f15125a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3807f9725261ac6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e765bad58e133a1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e8386e92ab12efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18c24b15fb6dcd06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f0b820309c08861",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QA/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "47c93b965ec146ef",
+  "lastOpenFiles": [
+    "QA/Конспекты/Тестирование и отладка программ/Критерии белого ящика.md",
+    "Templates/BookTemplate.md.md",
+    "Книги/2024/Тестирование и отладка программ.md",
+    "QA/Конспекты/Тестирование и отладка программ/Безмашинное тестирование.md",
+    "QA/Конспекты/Тестирование и отладка программ/Отладка.md",
+    "QA/Конспекты/Тестирование и отладка программ",
+    "QA/Конспекты",
+    "QA/Конспекты/Тестирование и отладка программ/Конспект по книге Тестирование и отладка программ.md",
+    "QA/Конспекты/Тестирование и отладка программ/Оценка количества необходимых тестов.md",
+    "QA/Конспекты/Тестирование и отладка программ/Оценка количества ошибок в программе.md",
+    "QA/Конспекты/Тестирование и отладка программ/Ошибкоопасные ситуации.md",
+    "QA/Конспекты/Тестирование и отладка программ/Полнота тестирования.md",
+    "QA/Конспекты/Тестирование и отладка программ/Критерии черного ящика.md",
+    "QA/Конспекты/Тестирование и отладка программ/Минимально грубое тестирование.md",
+    "QA/Конспекты/Тестирование и отладка программ/Нисходящее тестирование.md",
+    "QA/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md",
+    "Книги/2024/Без названия 1.md",
+    "Templates",
+    "Книги/2024",
+    "Книги",
+    "QA/Конспекты/Тестирование и отладка программ/Порядок работы над программой.md",
+    "QA/Теория/Пример тестирования.md",
+    "QA/Конспекты/Тестирование и отладка программ/Программы и ошибки.md",
+    "QA/Конспекты/Тестирование и отладка программ/Принципы тестирования.md",
+    "Полнота.md",
+    "Литература.md",
+    "QA/Теория тестирования.md",
+    "QA/Теория",
+    "тестирование.md",
+    "тестирования.md",
+    "Programming/Python/Структуры данных.md",
+    "Programming/Python",
+    "Programming",
+    "QA"
+  ]
+}
