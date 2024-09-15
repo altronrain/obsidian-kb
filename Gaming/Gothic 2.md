@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - "#RPG"
 жанр: RPG
 год выпуска: "2002"
 разработчик: Piranha Bytes

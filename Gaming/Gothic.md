@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - "#PRG"
 жанр: RPG
 год выпуска: "2001"
 разработчик: Piranha Bytes
