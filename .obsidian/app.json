@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "pasted_sources",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
