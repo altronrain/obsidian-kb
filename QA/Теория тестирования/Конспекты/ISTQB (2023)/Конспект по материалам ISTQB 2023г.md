@@ -1,3 +1,7 @@
+---
+tags:
+  - QA
+---
 Конспект для дальнейшей переработки.
 Сам курс: https://www.rstqb.org/ru/istqb-downloads.html
 

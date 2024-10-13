@@ -133,50 +133,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Теория web/Tips and Tricks.md",
+                "file": "Programming/Python/PyTest/Запуск категорий тестов.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2af46343f2f0a62b",
+            "id": "26a9059b88d9bb50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/2024/Предания и мифы средневековой Ирландии.md",
+                "file": "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f53ac6861ed243c",
+            "id": "ec2a32b3ce43d55a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/2024/!Саги об уладах.md",
+                "file": "Programming/Python/PyTest/Фикстуры в PyTest.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9a48b8eb671588d",
+            "id": "b1495d65c281fee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/PyTest/PyTest Основы.md",
+                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b785dff458f4a408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PyTest/Параметризация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691a21dadad1af47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PyTest/Маркеры (метки).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dbf7a4eac9555f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PyTest/Структура тестового проекта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c55ba99bb585fca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PyTest/Мокинг (mocking).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39208562e6016111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -242,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/PyTest/PyTest Основы.md",
+                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/PyTest/PyTest Основы.md",
+                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/PyTest/PyTest Основы.md"
+                "file": "Programming/Python/PyTest/Встроенные фикстуры.md"
               }
             }
           }
@@ -303,34 +363,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9a48b8eb671588d",
+  "active": "39208562e6016111",
   "lastOpenFiles": [
+    "Programming/Python/PyTest/Запуск категорий тестов.md",
+    "Programming/Python/PyTest/Маркеры (метки).md",
+    "Programming/Python/PyTest/Мокинг (mocking).md",
+    "Programming/Python/PyTest/Параметризация.md",
+    "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
+    "Programming/Python/PyTest/Структура тестового проекта.md",
+    "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
+    "Programming/Python/PyTest/Фикстуры в PyTest.md",
+    "Programming/Python/PyTest/PyTest Основы.md",
+    "Programming/Python/PyTest/Продвинутая параметризация.md",
+    "Programming/Python/PyTest/Встроенные фикстуры.md",
     "QA/Теория тестирования/Code Style в автотестах.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Тестирование и отладка.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Программы и ошибки.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Принципы тестирования.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Порядок работы над программой.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Полнота тестирования.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Ошибкоопасные ситуации.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Оценка количества ошибок в программе.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Оценка количества необходимых тестов.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Отладка.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Нисходящее тестирование.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Минимально грубое тестирование.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Критерии черного ящика.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Критерии белого ящика.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Конспект по книге Тестирование и отладка программ.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Иные виды тестирования программ.md",
-    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Безмашинное тестирование.md",
     "QA/Теория web/Tips and Tricks.md",
     "QA/Теория web/Page Object Model.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Что такое тестирование.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Уровни тестирования и типы тестирования.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Управление рисками.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Управление конфигурацией и управление дефектами.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Тестирование на основе опыта.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Тестирование в жизненном цикле разработки ПО.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Статическое тестирование.md",
+    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Конспект по материалам ISTQB 2023г.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Конспект по книге Тестирование и отладка программ.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Безмашинное тестирование.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Иные виды тестирования программ.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Критерии белого ящика.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Критерии черного ящика.md",
+    "QA/Теория тестирования/Конспекты/Тестирование и отладка программ/Минимально грубое тестирование.md",
+    "Книги/2024/Предания и мифы средневековой Ирландии.md",
+    "Книги/2024/Ирландские мифы от племен богини Дану и Кром Круаха до Кельтских сумерек и Самайна.md",
+    "Книги/2024/!Саги об уладах.md",
+    "Templates/GeneralTemplate.md.md",
+    "Templates/GameTemplate.md.md",
+    "Linux/Базовые утилиты",
+    "Linux",
     "Programming/Python/PyTest",
     "QA/Теория web",
     "pasted_sources/Pasted image 20240919222657.png",
@@ -345,8 +407,6 @@
     "QA/Теория тестирования/Конспекты/ISTQB (2023)",
     "QA/Теория тестирования/Конспекты/Тестирование и отладка программ",
     "QA/Теория тестирования/Конспекты",
-    "Templates",
-    "Книги/2024",
-    "Книги"
+    "Templates"
   ]
 }
