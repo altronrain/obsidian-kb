@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
+                "file": "Programming/Python/PyTest/Параметризация.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
+                "file": "Programming/Python/PyTest/Параметризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/PyTest/Встроенные фикстуры.md",
+                "file": "Programming/Python/PyTest/Параметризация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/PyTest/Встроенные фикстуры.md"
+                "file": "Programming/Python/PyTest/Параметризация.md"
               }
             }
           }
@@ -365,17 +365,17 @@
   },
   "active": "39208562e6016111",
   "lastOpenFiles": [
+    "Programming/Python/PyTest/PyTest Основы.md",
+    "Programming/Python/PyTest/Параметризация.md",
+    "Programming/Python/PyTest/Встроенные фикстуры.md",
     "Programming/Python/PyTest/Запуск категорий тестов.md",
     "Programming/Python/PyTest/Маркеры (метки).md",
     "Programming/Python/PyTest/Мокинг (mocking).md",
-    "Programming/Python/PyTest/Параметризация.md",
     "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
     "Programming/Python/PyTest/Структура тестового проекта.md",
     "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
     "Programming/Python/PyTest/Фикстуры в PyTest.md",
-    "Programming/Python/PyTest/PyTest Основы.md",
     "Programming/Python/PyTest/Продвинутая параметризация.md",
-    "Programming/Python/PyTest/Встроенные фикстуры.md",
     "QA/Теория тестирования/Code Style в автотестах.md",
     "QA/Теория web/Tips and Tricks.md",
     "QA/Теория web/Page Object Model.md",
