@@ -16,9 +16,7 @@
                 "file": "Programming/Python/PyTest/PyTest Основы.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PyTest Основы"
+              }
             }
           },
           {
@@ -30,9 +28,7 @@
                 "file": "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Просмотр порядка выполнения тестов и фикстур"
+              }
             }
           },
           {
@@ -41,12 +37,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
+                "file": "Programming/Python/PyTest/PyTest Основы.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Покрытие исходного кода тестами"
+              }
             }
           }
         ],
@@ -70,9 +64,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              }
             }
           },
           {
@@ -87,9 +79,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Поиск"
+              }
             }
           },
           {
@@ -97,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "state": {}
             }
           }
         ]
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
+                "file": "Programming/Python/PyTest/PyTest Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +118,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Покрытие исходного кода тестами"
+              }
             }
           },
           {
@@ -141,12 +127,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
+                "file": "Programming/Python/PyTest/PyTest Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Покрытие исходного кода тестами"
+              }
             }
           },
           {
@@ -157,9 +141,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              }
             }
           },
           {
@@ -168,10 +150,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/PyTest/Покрытие исходного кода тестами.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Покрытие исходного кода тестами"
+                "file": "Programming/Python/PyTest/PyTest Основы.md"
+              }
             }
           }
         ]
@@ -193,19 +173,21 @@
   },
   "active": "50a0dc5f91e937cd",
   "lastOpenFiles": [
-    "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
-    "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
-    "Programming/Python/PyTest/Продвинутая параметризация.md",
-    "Programming/Python/PyTest/PyTest Основы.md",
-    "Programming/Python/PyTest/Встроенные фикстуры.md",
-    "Programming/Python/PyTest/Краткая справка по ключам запуска.md",
-    "Programming/Python/PyTest/Запуск категорий тестов.md",
-    "Programming/Python/PyTest/Маркеры (метки).md",
-    "Programming/Python/PyTest/Структура тестового проекта.md",
-    "pasted_sources/Pasted image 20241017180111.png",
+    "Programming/Python/PyTest/Фикстуры в PyTest.md",
     "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
+    "Programming/Python/PyTest/Структура тестового проекта.md",
+    "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
+    "Programming/Python/PyTest/Продвинутая параметризация.md",
+    "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
     "Programming/Python/PyTest/Параметризация.md",
     "Programming/Python/PyTest/Мокинг (mocking).md",
+    "Programming/Python/PyTest/Маркеры (метки).md",
+    "Programming/Python/PyTest/Краткая справка по ключам запуска.md",
+    "Programming/Python/PyTest/Запуск категорий тестов.md",
+    "Programming/Python/PyTest/Встроенные фикстуры.md",
+    "Programming/Python/PyTest/PyTest Основы.md",
+    "Programming/Python/PyTest/Без названия.md",
+    "pasted_sources/Pasted image 20241017180111.png",
     "Книги/2024/!Саги об уладах.md",
     "Книги/2024/Ирландские мифы от племен богини Дану и Кром Круаха до Кельтских сумерек и Самайна.md",
     "QA/Теория тестирования/Code Style в автотестах.md",
@@ -214,7 +196,6 @@
     "pasted_sources/Pasted image 20240919222640.png",
     "pasted_sources/Pasted image 20240919222657.png",
     "pasted_sources/Pasted image 20241016124359.png",
-    "Programming/Python/PyTest/Фикстуры в PyTest.md",
     "Templates/GameTemplate.md.md",
     "Книги/2024/Тестирование и отладка программ.md",
     "Книги/2024/Предания и мифы средневековой Ирландии.md",
@@ -222,7 +203,6 @@
     "QA/Теория тестирования/Конспекты/ISTQB (2023)/Тестирование в жизненном цикле разработки ПО.md",
     "QA/Теория тестирования/Конспекты/ISTQB (2023)/Статическое тестирование.md",
     "QA/Теория тестирования/Конспекты/ISTQB (2023)/Принципы тестирования ISTQB.md",
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Методы черного ящика.md",
     "Linux",
     "Linux/Базовые утилиты",
     "Linux",
