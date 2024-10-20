@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/PyTest/Параметризация.md",
+                "file": "Книги/2024/!Саги об уладах.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Параметризация"
+              "title": "!Саги об уладах"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "4344b3bb0b2e6804",
   "lastOpenFiles": [
+    "Programming/Python/PyTest/Параметризация.md",
     "Programming/Python/PyTest/Плагины PyTets.md",
     "Programming/Python/PyTest/Хуки.md",
     "Programming/Python/PyTest/Фикстуры в PyTest.md",
@@ -191,7 +192,6 @@
     "Programming/Python/PyTest/Мокинг (mocking).md",
     "Programming/Python/PyTest/Основы PyTest.md",
     "Programming/Python/PyTest/Отладка провалившихся тестов.md",
-    "Programming/Python/PyTest/Параметризация.md",
     "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
     "Programming/Python/PyTest/Продвинутая параметризация.md",
     "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
