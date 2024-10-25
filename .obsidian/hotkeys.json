@@ -10,8 +10,7 @@
   "obsidian-plugin-toc:create-toc": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Alt"
       ],
       "key": "T"
     }
