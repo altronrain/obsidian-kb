@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Системы счисления"
             }
+          },
+          {
+            "id": "ff198afbfa9d8dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы математики/Двоичная логика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Двоичная логика"
+            }
+          },
+          {
+            "id": "0e2f96b3f0565380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы математики/Алгоритмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритмы"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,25 +205,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "59ac7dc1cae55e94",
+  "active": "0e2f96b3f0565380",
   "lastOpenFiles": [
-    "Linux/Основы использования ОС/Права доступа к файлам.md",
+    "Основы математики/Двоичная логика.md",
+    "Основы математики/Алгоритмы.md",
+    "Основы математики/Виды бесконечности.md",
+    "pasted_sources/Pasted image 20241031215354.png",
+    "pasted_sources/Pasted image 20241031215257.png",
+    "pasted_sources/Pasted image 20241031215240.png",
+    "pasted_sources/Pasted image 20241031213049.png",
+    "pasted_sources/Pasted image 20241031213023.png",
+    "pasted_sources/Pasted image 20241031212858.png",
+    "pasted_sources/Pasted image 20241031212155.png",
     "Основы математики/Системы счисления.md",
+    "Linux/Основы использования ОС/Права доступа к файлам.md",
     "Linux/Основы использования ОС/Шаблоны имен файлов.md",
     "Основы математики/Элементы комбинаторики.md",
     "Основы математики/Алгебра двоичной логики.md",
     "pasted_sources/Pasted image 20241029225521.png",
     "Linux/Основы использования ОС/Способы экранирования.md",
     "pasted_sources/Pasted image 20241029222415.png",
-    "Основы математики/Без названия.md",
     "pasted_sources/Pasted image 20241029220652.png",
-    "pasted_sources/Pasted image 20241029220638.png",
-    "pasted_sources/Pasted image 20241029220603.png",
-    "pasted_sources/Pasted image 20241029215131.png",
-    "pasted_sources/Pasted image 20241029215057.png",
-    "pasted_sources/Pasted image 20241029214850.png",
-    "pasted_sources/Pasted image 20241029214838.png",
-    "pasted_sources/Pasted image 20241029214519.png",
     "Linux/Основы использования ОС/Секции документации man.md",
     "Основы математики",
     "Linux/Основы использования ОС/Управление выполнением задач в терминале.md",
@@ -218,7 +248,6 @@
     "Programming/Python/PyTest/Встроенные фикстуры.md",
     "Programming/Python/PyTest/Краткая справка по ключам запуска.md",
     "Programming/Python/PyTest/Фикстуры в PyTest.md",
-    "Programming/Python/PyTest/Тестирование скриптов и приложений.md",
     "Programming/Python/tox",
     "Linux",
     "Linux/Базовые утилиты",
