@@ -55,16 +55,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы математики/Алгоритмы.md",
+                "file": "Архитектура ПК и ОС/Задачи операционной системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы"
+              "title": "Задачи операционной системы"
+            }
+          },
+          {
+            "id": "543ef3a6b32cb4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Машинное представление целых чисел.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Машинное представление целых чисел"
+            }
+          },
+          {
+            "id": "8102082b22923d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Машинное представление чисел с плавающей точкой.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Машинное представление чисел с плавающей точкой"
+            }
+          },
+          {
+            "id": "28355040cef67bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Задачи операционной системы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи операционной системы"
+            }
+          },
+          {
+            "id": "bb50f17b317208a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Текст как формат данных. Кодировка"
+            }
+          },
+          {
+            "id": "a7fdb142da78659f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Алгоритмически полные языки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритмически полные языки"
+            }
+          },
+          {
+            "id": "be7ece1d46d7d69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Машинный код. Компиляторы и интерпретаторы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Машинный код. Компиляторы и интерпретаторы"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,53 +289,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0e2f96b3f0565380",
+  "active": "be7ece1d46d7d69e",
   "lastOpenFiles": [
-    "Основы математики/Двоичная логика.md",
+    "Programming/Алгоритмически полные языки.md",
+    "Архитектура ПК и ОС/Машинный код. Компиляторы и интерпретаторы.md",
+    "Linux/Полезные утилиты отладки/hexdump.md",
+    "QA/Тестирование web/Tips and Tricks.md",
+    "Архитектура ПК и ОС/Бинарные и текстовые данные.md",
+    "Linux/Полезные утилиты отладки",
+    "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
+    "Архитектура ПК и ОС/Задачи операционной системы.md",
+    "Архитектура ПК и ОС/Машинное представление чисел с плавающей точкой.md",
+    "pasted_sources/Pasted image 20241102194928.png",
+    "pasted_sources/Pasted image 20241102194841.png",
+    "pasted_sources/Pasted image 20241102193313.png",
+    "pasted_sources/Pasted image 20241102183240.png",
+    "Архитектура ПК и ОС/Машинное представление целых чисел.md",
+    "Архитектура ПК и ОС/Архитектура ПК.md",
+    "Programming/Python/PyTest/Отладка провалившихся тестов.md",
+    "Programming/Python/PyTest/Параметризация.md",
+    "Programming/Python/PyTest/Основы PyTest.md",
+    "Programming/Python/PyTest/Мокинг (mocking).md",
+    "Programming/Python/PyTest/Маркеры (метки).md",
+    "Programming/Python/PyTest/Запуск категорий тестов.md",
+    "Programming/Python/PyTest/Встроенные фикстуры.md",
+    "Programming/Python/Перебор списка в цикле с модификацией.md",
+    "Programming/Python/PyTest/Фикстуры в PyTest.md",
+    "Programming/Python/PyTest/Тестирование скриптов и приложений.md",
+    "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
+    "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
+    "Programming/Python/PyTest/Продвинутая параметризация.md",
+    "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
+    "Programming/Python/PyTest/Плагины PyTets.md",
     "Основы математики/Алгоритмы.md",
-    "Основы математики/Виды бесконечности.md",
     "pasted_sources/Pasted image 20241031215354.png",
     "pasted_sources/Pasted image 20241031215257.png",
     "pasted_sources/Pasted image 20241031215240.png",
     "pasted_sources/Pasted image 20241031213049.png",
     "pasted_sources/Pasted image 20241031213023.png",
     "pasted_sources/Pasted image 20241031212858.png",
-    "pasted_sources/Pasted image 20241031212155.png",
-    "Основы математики/Системы счисления.md",
-    "Linux/Основы использования ОС/Права доступа к файлам.md",
-    "Linux/Основы использования ОС/Шаблоны имен файлов.md",
-    "Основы математики/Элементы комбинаторики.md",
-    "Основы математики/Алгебра двоичной логики.md",
-    "pasted_sources/Pasted image 20241029225521.png",
-    "Linux/Основы использования ОС/Способы экранирования.md",
-    "pasted_sources/Pasted image 20241029222415.png",
-    "pasted_sources/Pasted image 20241029220652.png",
-    "Linux/Основы использования ОС/Секции документации man.md",
     "Основы математики",
-    "Linux/Основы использования ОС/Управление выполнением задач в терминале.md",
-    "Linux/Основы использования ОС/Переменные окружения.md",
-    "Linux/Основы использования ОС/Работа с историей команд.md",
-    "Linux/Основы использования ОС/Потоки ввода-вывода.md",
-    "Архитектура ПК и ОС/Операционные системы.md",
-    "Архитектура ПК и ОС/Архитектура ПК.md",
     "Linux/Основы использования ОС",
-    "Linux/Без названия.md",
     "Сети",
     "Linux",
-    "README.md",
-    "Programming/Python/PyTest/Хуки.md",
     "Архитектура ПК и ОС",
-    "Programming/Python/Перебор списка в цикле с модификацией.md",
-    "QA/Теория тестирования/Code Style в автотестах.md",
-    "QA/Теория web/Tips and Tricks.md",
-    "QA/Теория web/Page Object Model.md",
-    "Programming/Python/PyTest/Встроенные фикстуры.md",
-    "Programming/Python/PyTest/Краткая справка по ключам запуска.md",
-    "Programming/Python/PyTest/Фикстуры в PyTest.md",
     "Programming/Python/tox",
     "Linux",
     "Linux/Базовые утилиты",
-    "Linux",
-    "Programming/Python/PyTest"
+    "Linux"
   ]
 }
