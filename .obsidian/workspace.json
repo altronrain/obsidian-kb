@@ -139,16 +139,618 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура ПК и ОС/Машинный код. Компиляторы и интерпретаторы.md",
+                "file": "Programming/Python/Перебор списка в цикле с модификацией.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Машинный код. Компиляторы и интерпретаторы"
+              "title": "Перебор списка в цикле с модификацией"
+            }
+          },
+          {
+            "id": "e820c660cf2e9b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Типы данных Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных Python"
+            }
+          },
+          {
+            "id": "6698621313bce88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Числа в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Числа в Python"
+            }
+          },
+          {
+            "id": "1b4e7cd90329e0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Строковые литералы в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Строковые литералы в Python"
+            }
+          },
+          {
+            "id": "3630375141923ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Списки в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Списки в Python"
+            }
+          },
+          {
+            "id": "f84921902d8fbfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Словари в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Словари в Python"
+            }
+          },
+          {
+            "id": "487a423908332814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Кортежи в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кортежи в Python"
+            }
+          },
+          {
+            "id": "d777cfd75e277e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Типы данных Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных Python"
+            }
+          },
+          {
+            "id": "e4a0e47a7a699681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Словари в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Словари в Python"
+            }
+          },
+          {
+            "id": "e695ae946be76c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Булевы значения в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Булевы значения в Python"
+            }
+          },
+          {
+            "id": "a4de5f6a32019318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Контроль хода программы/Ветвления.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ветвления"
+            }
+          },
+          {
+            "id": "ddd957240c453f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Контроль хода программы/Циклы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Циклы"
+            }
+          },
+          {
+            "id": "fa1f2651b6b20254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Контроль хода программы/Обработка исключений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обработка исключений"
+            }
+          },
+          {
+            "id": "3c0b256d7cb4ac91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Перебор списка в цикле с модификацией.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перебор списка в цикле с модификацией"
+            }
+          },
+          {
+            "id": "0bc329316c7d625d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Сериализация данных/Работа с файлами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с файлами"
+            }
+          },
+          {
+            "id": "cb30d6d3bf3a1c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Сериализация данных/Менеджер контекста.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Менеджер контекста"
+            }
+          },
+          {
+            "id": "4008603db4bfe75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функции"
+            }
+          },
+          {
+            "id": "10f440744b067890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Кортежи в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кортежи в Python"
+            }
+          },
+          {
+            "id": "d09bc7802fd7ca55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Итераторы. Итерируемые объекты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Итераторы. Итерируемые объекты"
+            }
+          },
+          {
+            "id": "87da73419f815f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Генераторы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Генераторы"
+            }
+          },
+          {
+            "id": "5d161baf88a643a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Работа с модулями Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с модулями Python"
+            }
+          },
+          {
+            "id": "166151f3f148af48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Булевы значения в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Булевы значения в Python"
+            }
+          },
+          {
+            "id": "61feef939fafbefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Сериализация данных/Работа с файлами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с файлами"
+            }
+          },
+          {
+            "id": "b05d3b06b5a16ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Сериализация данных/Работа с CSV в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с CSV в Python"
+            }
+          },
+          {
+            "id": "2eb6d5e458350bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Сериализация данных/Работа с JSON в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с JSON в Python"
+            }
+          },
+          {
+            "id": "3a229e8c4f44ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/re.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "re"
+            }
+          },
+          {
+            "id": "79d4b7f11064b03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Подключение к удаленной стороне/netmiko.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "netmiko"
+            }
+          },
+          {
+            "id": "4864c4f5c1f50d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Подключение к удаленной стороне/telnetlib (3.13 removed).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "telnetlib (3.13 removed)"
+            }
+          },
+          {
+            "id": "1fb4fd2014e71a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Подключение к удаленной стороне/paramiko.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "paramiko"
+            }
+          },
+          {
+            "id": "6f7f79f6e4ab0c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "logging"
+            }
+          },
+          {
+            "id": "e2f82e55aabdeae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Организация одновременной работы/multiprocessing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "multiprocessing"
+            }
+          },
+          {
+            "id": "ebd2670f348c7db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Организация одновременной работы/threads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "threads"
+            }
+          },
+          {
+            "id": "b15b885389ed4182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Организация одновременной работы/concurrent.futures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "concurrent.futures"
+            }
+          },
+          {
+            "id": "cd338ad59b759d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Организация одновременной работы/asyncio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asyncio"
+            }
+          },
+          {
+            "id": "2998f09be1b790fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/ООП в Python/Основы ООП в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы ООП в Python"
+            }
+          },
+          {
+            "id": "f3bd65c4f13d6621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Магические методы. Dunder-методы"
+            }
+          },
+          {
+            "id": "e36e755986fc6bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/ООП в Python/Наследование в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Наследование в Python"
+            }
+          },
+          {
+            "id": "ef194e5d08ae40c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Магические методы. Dunder-методы"
+            }
+          },
+          {
+            "id": "cb9bfc437bbf69d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Модули Python/Работа с БД/sqlite3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sqlite3"
+            }
+          },
+          {
+            "id": "f32b122bd40d3e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функции"
+            }
+          },
+          {
+            "id": "58df2fa64be2b370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Типы данных Python/Строковые литералы в Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Строковые литералы в Python"
+            }
+          },
+          {
+            "id": "705e4978706f66f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Полезные утилиты отладки/hexdump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexdump"
+            }
+          },
+          {
+            "id": "cbc18fa768b885d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функции"
+            }
+          },
+          {
+            "id": "0cbd4310c511ba9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Декораторы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Декораторы"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -204,7 +806,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "2b48bd40f15125a1",
@@ -289,53 +891,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be7ece1d46d7d69e",
+  "active": "47c93b965ec146ef",
   "lastOpenFiles": [
-    "Programming/Алгоритмически полные языки.md",
-    "Архитектура ПК и ОС/Машинный код. Компиляторы и интерпретаторы.md",
+    "Programming/Python/Функции.md",
+    "Programming/Python/Декораторы.md",
+    "Programming/Python/Типы данных Python/Булевы значения в Python.md",
+    "Linux/Полезные утилиты отладки/strings.md",
     "Linux/Полезные утилиты отладки/hexdump.md",
-    "QA/Тестирование web/Tips and Tricks.md",
-    "Архитектура ПК и ОС/Бинарные и текстовые данные.md",
-    "Linux/Полезные утилиты отладки",
-    "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
-    "Архитектура ПК и ОС/Задачи операционной системы.md",
-    "Архитектура ПК и ОС/Машинное представление чисел с плавающей точкой.md",
+    "Programming/Python/Типы данных Python/Типы данных Python.md",
+    "Programming/Python/Типы данных Python/Числа в Python.md",
+    "Programming/Python/Типы данных Python/Генераторы.md",
+    "Programming/Python/Полезные встроенные функции Python/id.md",
+    "Programming/Python/Типы данных Python/Строковые литералы в Python.md",
+    "Programming/Python/Полезные встроенные функции Python",
+    "Programming/Python/Полезные встроенные функции.md",
+    "Programming/Python/Типы данных Python/Списки в Python.md",
+    "Programming/Python/Типы данных Python/Словари в Python.md",
+    "Programming/Python/Типы данных Python/Преобразование типов в Python.md",
+    "Programming/Python/Типы данных Python/Байтовые строки. Кодировка.md",
+    "Programming/Python/Типы данных Python/Кортежи в Python.md",
+    "Programming/Python/Типы данных Python/Множества в Python.md",
+    "Programming/Python/Операции и их приоритет.md",
+    "Programming/Python/Модули Python/PyTest/Встроенные фикстуры.md",
+    "Programming/Python/Модули Python/Работа с БД/sqlalchemy.md",
+    "Programming/Python/Модули Python/Работа с БД/sqlite3.md",
+    "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
+    "Programming/Python/Модули Python/Работа с БД",
+    "Programming/Python/ООП в Python/Наследование в Python.md",
+    "Programming/Python/ООП в Python/Наследование исключений.md",
+    "Programming/Python/ООП в Python/Основы ООП в Python.md",
+    "Programming/Python/Модули Python/TextFSM",
+    "Programming/Python/Модули Python/Организация одновременной работы/asyncio.md",
+    "Programming/Python/ООП в Python",
+    "Programming/Python/Модули Python/Jinja2",
+    "Programming/Python/Модули Python/Организация одновременной работы",
+    "Programming/Python/Модули Python/Подключение к удаленной стороне",
+    "Programming/Python/Сериализация данных",
+    "Programming/Python/Контроль хода программы",
+    "Programming/Python/Модули Python",
     "pasted_sources/Pasted image 20241102194928.png",
     "pasted_sources/Pasted image 20241102194841.png",
     "pasted_sources/Pasted image 20241102193313.png",
     "pasted_sources/Pasted image 20241102183240.png",
-    "Архитектура ПК и ОС/Машинное представление целых чисел.md",
-    "Архитектура ПК и ОС/Архитектура ПК.md",
-    "Programming/Python/PyTest/Отладка провалившихся тестов.md",
-    "Programming/Python/PyTest/Параметризация.md",
-    "Programming/Python/PyTest/Основы PyTest.md",
-    "Programming/Python/PyTest/Мокинг (mocking).md",
-    "Programming/Python/PyTest/Маркеры (метки).md",
-    "Programming/Python/PyTest/Запуск категорий тестов.md",
-    "Programming/Python/PyTest/Встроенные фикстуры.md",
-    "Programming/Python/Перебор списка в цикле с модификацией.md",
-    "Programming/Python/PyTest/Фикстуры в PyTest.md",
-    "Programming/Python/PyTest/Тестирование скриптов и приложений.md",
-    "Programming/Python/PyTest/Тестирование ожидаемых исключений.md",
-    "Programming/Python/PyTest/Просмотр порядка выполнения тестов и фикстур.md",
-    "Programming/Python/PyTest/Продвинутая параметризация.md",
-    "Programming/Python/PyTest/Покрытие исходного кода тестами.md",
-    "Programming/Python/PyTest/Плагины PyTets.md",
-    "Основы математики/Алгоритмы.md",
     "pasted_sources/Pasted image 20241031215354.png",
     "pasted_sources/Pasted image 20241031215257.png",
     "pasted_sources/Pasted image 20241031215240.png",
     "pasted_sources/Pasted image 20241031213049.png",
     "pasted_sources/Pasted image 20241031213023.png",
-    "pasted_sources/Pasted image 20241031212858.png",
-    "Основы математики",
-    "Linux/Основы использования ОС",
-    "Сети",
-    "Linux",
-    "Архитектура ПК и ОС",
-    "Programming/Python/tox",
-    "Linux",
-    "Linux/Базовые утилиты",
-    "Linux"
+    "pasted_sources/Pasted image 20241031212858.png"
   ]
 }
