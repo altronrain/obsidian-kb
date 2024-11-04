@@ -11,14 +11,10 @@
             "id": "17baa4df0eece611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Архитектура ПК и ОС/Операционные системы.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Операционные системы"
+              "title": "Новая вкладка"
             }
           },
           {
@@ -699,58 +695,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Типы данных Python/Строковые литералы в Python.md",
+                "file": "Programming/Python/Структура программы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Строковые литералы в Python"
-            }
-          },
-          {
-            "id": "705e4978706f66f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Полезные утилиты отладки/hexdump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hexdump"
-            }
-          },
-          {
-            "id": "cbc18fa768b885d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Функции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Функции"
-            }
-          },
-          {
-            "id": "0cbd4310c511ba9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Декораторы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Декораторы"
+              "title": "Структура программы"
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -891,44 +845,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "47c93b965ec146ef",
+  "active": "58df2fa64be2b370",
   "lastOpenFiles": [
     "Programming/Python/Функции.md",
+    "Programming/Алгоритмически полные языки.md",
+    "Programming/Python/Перебор списка в цикле с модификацией.md",
+    "Programming/Python/Контроль хода программы/Циклы.md",
+    "Programming/Python/Контроль хода программы/Обработка исключений.md",
+    "Programming/Python/Контроль хода программы/Ветвления.md",
+    "Programming/Python/Форматирование строк.md",
+    "Programming/Python/Структура программы.md",
+    "Programming/Python/Регулярные выражения.md",
     "Programming/Python/Декораторы.md",
-    "Programming/Python/Типы данных Python/Булевы значения в Python.md",
-    "Linux/Полезные утилиты отладки/strings.md",
-    "Linux/Полезные утилиты отладки/hexdump.md",
-    "Programming/Python/Типы данных Python/Типы данных Python.md",
-    "Programming/Python/Типы данных Python/Числа в Python.md",
-    "Programming/Python/Типы данных Python/Генераторы.md",
-    "Programming/Python/Полезные встроенные функции Python/id.md",
-    "Programming/Python/Типы данных Python/Строковые литералы в Python.md",
-    "Programming/Python/Полезные встроенные функции Python",
-    "Programming/Python/Полезные встроенные функции.md",
-    "Programming/Python/Типы данных Python/Списки в Python.md",
-    "Programming/Python/Типы данных Python/Словари в Python.md",
-    "Programming/Python/Типы данных Python/Преобразование типов в Python.md",
-    "Programming/Python/Типы данных Python/Байтовые строки. Кодировка.md",
-    "Programming/Python/Типы данных Python/Кортежи в Python.md",
-    "Programming/Python/Типы данных Python/Множества в Python.md",
-    "Programming/Python/Операции и их приоритет.md",
-    "Programming/Python/Модули Python/PyTest/Встроенные фикстуры.md",
-    "Programming/Python/Модули Python/Работа с БД/sqlalchemy.md",
-    "Programming/Python/Модули Python/Работа с БД/sqlite3.md",
-    "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
+    "Programming/Python/Область видимости переменных.md",
+    "Programming/Python/Типы данных/Числа.md",
+    "Programming/Python/Типы данных/Типы данных.md",
+    "Programming/Python/Типы данных/Списки.md",
+    "Programming/Python/Типы данных/Словари.md",
+    "Programming/Python/Типы данных/Преобразование типов.md",
+    "Programming/Python/Типы данных/Переменные.md",
+    "Programming/Python/Типы данных/Операции и их приоритет.md",
+    "Programming/Python/Типы данных/Множества.md",
+    "Programming/Python/Типы данных/Кортежи.md",
+    "Programming/Python/Типы данных/Итераторы. Итерируемые объекты.md",
+    "Programming/Python/Типы данных/Генераторы.md",
+    "Programming/Python/Типы данных/Булевы значения.md",
+    "Programming/Pascal/Типы данных/Переменные.md",
+    "Programming/Pascal/Структура программы.md",
+    "Programming/Pascal/Область видимости переменных.md",
+    "Programming/Pascal/Контроль хода программы",
+    "Programming/Pascal/Типы данных",
+    "Programming/Pascal",
+    "Programming/Python/Полезные встроенные функции",
     "Programming/Python/Модули Python/Работа с БД",
-    "Programming/Python/ООП в Python/Наследование в Python.md",
-    "Programming/Python/ООП в Python/Наследование исключений.md",
-    "Programming/Python/ООП в Python/Основы ООП в Python.md",
     "Programming/Python/Модули Python/TextFSM",
-    "Programming/Python/Модули Python/Организация одновременной работы/asyncio.md",
     "Programming/Python/ООП в Python",
     "Programming/Python/Модули Python/Jinja2",
     "Programming/Python/Модули Python/Организация одновременной работы",
     "Programming/Python/Модули Python/Подключение к удаленной стороне",
-    "Programming/Python/Сериализация данных",
-    "Programming/Python/Контроль хода программы",
-    "Programming/Python/Модули Python",
     "pasted_sources/Pasted image 20241102194928.png",
     "pasted_sources/Pasted image 20241102194841.png",
     "pasted_sources/Pasted image 20241102193313.png",
