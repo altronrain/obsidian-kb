@@ -611,114 +611,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/ООП в Python/Основы ООП в Python.md",
+                "file": "Programming/Pascal/Работа с символами (ASCII).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы ООП в Python"
+              "title": "Работа с символами (ASCII)"
             }
           },
           {
-            "id": "f3bd65c4f13d6621",
+            "id": "6d4f89e0b31abd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
+                "file": "Programming/Pascal/Директивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Магические методы. Dunder-методы"
-            }
-          },
-          {
-            "id": "e36e755986fc6bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/ООП в Python/Наследование в Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Наследование в Python"
-            }
-          },
-          {
-            "id": "ef194e5d08ae40c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Алгоритмически полные языки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Алгоритмически полные языки"
-            }
-          },
-          {
-            "id": "9deb380da80bb454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Контроль хода программы/Ветвления.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ветвления"
-            }
-          },
-          {
-            "id": "b949652360dbd610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Pascal/Контроль хода программы/Ветвления.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ветвления"
-            }
-          },
-          {
-            "id": "23bd9eb47a58860b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Pascal/Контроль хода программы/Операторы выхода.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Операторы выхода"
-            }
-          },
-          {
-            "id": "8950dd7a79d89e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Pascal/Подпрограммы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Подпрограммы"
+              "title": "Директивы"
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -859,34 +775,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8950dd7a79d89e5c",
+  "active": "47c93b965ec146ef",
   "lastOpenFiles": [
-    "Programming/Pascal/Контроль хода программы/Безусловные переходы.md",
-    "Programming/Конструирование программ.md",
+    "Programming/Pascal/Без названия.md",
+    "Programming/Pascal/eof.md",
+    "Programming/Pascal/Директивы.md",
+    "Programming/Pascal/Работа с символами (ASCII).md",
+    "Linux/Чтение из файла.md",
+    "Linux/Полезные утилиты отладки/strings.md",
     "Programming/Pascal/Контроль хода программы/Операторы выхода.md",
-    "Programming/Pascal/Структура программы.md",
     "Programming/Pascal/Контроль хода программы/Ветвления.md",
-    "Programming/Pascal/Контроль хода программы/Циклы.md",
-    "Programming/Python/Регулярные выражения.md",
-    "Programming/Python/Контроль хода программы/Операторы выхода.md",
-    "Programming/Python/Контроль хода программы/Ветвления.md",
-    "Programming/Алгоритмически полные языки.md",
-    "Programming/Python/Типы данных/Итераторы. Итерируемые объекты.md",
-    "Programming/Python/Типы данных/Кортежи.md",
+    "Programming/Pascal/Типы данных/Булевы значения.md",
+    "Programming/Pascal/Типы данных/Именованые константы.md",
+    "Programming/Pascal/Типы данных/Операции и их приоритет.md",
+    "Programming/Pascal/Типы данных/Переменные.md",
+    "Programming/Pascal/Типы данных/Строковые литералы.md",
+    "Programming/Pascal/Типы данных/Типы данных.md",
+    "Programming/Pascal/Типы данных/Числа.md",
+    "Programming/Python/ООП в Python/Основы ООП в Python.md",
     "Programming/Python/ООП в Python/Магические методы. Dunder-методы.md",
-    "Programming/Python/Модули Python/Работа с БД/sqlite3.md",
-    "Programming/Python/Функции.md",
-    "Programming/Python/Структура программы.md",
-    "Programming/Python/Перебор списка в цикле с модификацией.md",
-    "Programming/Python/Контроль хода программы/Циклы.md",
-    "Programming/Python/Контроль хода программы/Обработка исключений.md",
-    "Programming/Python/Форматирование строк.md",
-    "Programming/Python/Декораторы.md",
-    "Programming/Python/Область видимости переменных.md",
-    "Programming/Python/Типы данных/Числа.md",
-    "Programming/Python/Типы данных/Типы данных.md",
-    "Programming/Python/Типы данных/Списки.md",
-    "Programming/Python/Типы данных/Словари.md",
+    "Programming/Python/ООП в Python/Наследование в Python.md",
+    "Programming/Алгоритмически полные языки.md",
+    "Programming/Python/Контроль хода программы/Ветвления.md",
+    "Programming/Pascal/Структура программы.md",
+    "pasted_sources/Pasted image 20241106204537.png",
+    "Programming/Pascal/Подпрограммы.md",
+    "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
+    "pasted_sources/Pasted image 20241106204424.png",
+    "Programming/Pascal/Область видимости переменных.md",
+    "Programming/Pascal/Типы данных/Побитовые операции.md",
+    "Основы математики/Элементы комбинаторики.md",
     "Programming/Pascal/Контроль хода программы",
     "Programming/Pascal/Типы данных",
     "Programming/Pascal",
@@ -904,8 +822,6 @@
     "pasted_sources/Pasted image 20241031215354.png",
     "pasted_sources/Pasted image 20241031215257.png",
     "pasted_sources/Pasted image 20241031215240.png",
-    "pasted_sources/Pasted image 20241031213049.png",
-    "pasted_sources/Pasted image 20241031213023.png",
-    "pasted_sources/Pasted image 20241031212858.png"
+    "pasted_sources/Pasted image 20241031213049.png"
   ]
 }
