@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Отладка программ/gdb. Отладка компилируемых программ.md",
+                "file": "Programming/Pascal/Модули Pascal/crt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdb. Отладка компилируемых программ"
+              "title": "crt"
+            }
+          },
+          {
+            "id": "303837a0e85edabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Pascal/Модули Pascal/Импорт файлов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Импорт файлов"
+            }
+          },
+          {
+            "id": "959ec3f709027f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Pascal/Модули Pascal/Работа с модулями Pascal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа с модулями Pascal"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,8 +205,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "47c93b965ec146ef",
+  "active": "959ec3f709027f66",
   "lastOpenFiles": [
+    "Programming/Pascal/Модули Pascal/Импорт файлов.md",
+    "Programming/Pascal/Модули Pascal/Работа с модулями Pascal.md",
+    "Programming/Python/Модули Python/Работа с модулями Python.md",
+    "Programming/Pascal/Модули Pascal/crt.md",
     "Programming/Конструирование программ.md",
     "Programming/Отладка программ/gdb. Отладка компилируемых программ.md",
     "Programming/Отладка программ",
@@ -202,10 +234,6 @@
     "Programming/Pascal/Типы данных/Числа.md",
     "Programming/Pascal/Типы данных/Типы данных.md",
     "Programming/Pascal/Типы данных/Строковые литералы.md",
-    "Programming/Pascal/Типы данных/Преобразование типов.md",
-    "Programming/Pascal/Типы данных/Переменные.md",
-    "Programming/Pascal/Типы данных/Именованые константы.md",
-    "Programming/Pascal/Типы данных/Булевы значения.md",
     "pasted_sources/Pasted image 20241117180929.png",
     "Programming/Динамические структуры данных",
     "pasted_sources/Pasted image 20241117162205.png",
@@ -217,7 +245,7 @@
     "Programming/Pascal/Типы данных/Пользовательские типы данных",
     "Programming/Pascal/Сериализация данных",
     "pasted_sources/Pasted image 20241109161305.png",
-    "Programming/Pascal/Библиотеки Pascal",
+    "Programming/Pascal/Модули Pascal",
     "pasted_sources/Pasted image 20241106204537.png",
     "pasted_sources/Pasted image 20241106204424.png",
     "Programming/Pascal/Контроль хода программы",
