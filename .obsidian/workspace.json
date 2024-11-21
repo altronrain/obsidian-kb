@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Pascal/Модули Pascal/Работа с модулями Pascal.md",
+                "file": "Архитектура ПК и ОС/Архитектура ПК.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с модулями Pascal"
+              "title": "Архитектура ПК"
+            }
+          },
+          {
+            "id": "13cf92210effb585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Особенности разработки в мультизадачных ОС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Особенности разработки в мультизадачных ОС"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,10 +219,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "959ec3f709027f66",
+  "active": "13cf92210effb585",
   "lastOpenFiles": [
-    "Programming/Pascal/Модули Pascal/Импорт файлов.md",
+    "Архитектура ПК и ОС/Архитектура ПК.md",
+    "Архитектура ПК и ОС/Особенности разработки в мультизадачных ОС.md",
+    "Архитектура ПК и ОС/Машинный код. Компиляторы и интерпретаторы.md",
     "Programming/Pascal/Модули Pascal/Работа с модулями Pascal.md",
+    "Programming/NASM",
+    "Programming/Pascal/Модули Pascal/Импорт файлов.md",
     "Programming/Python/Модули Python/Работа с модулями Python.md",
     "Programming/Pascal/Модули Pascal/crt.md",
     "Programming/Конструирование программ.md",
@@ -231,9 +249,6 @@
     "Programming/Pascal/Директивы.md",
     "Programming/Pascal/Генерация псевдослучайных чисел.md",
     "Programming/Pascal/Структура программы.md",
-    "Programming/Pascal/Типы данных/Числа.md",
-    "Programming/Pascal/Типы данных/Типы данных.md",
-    "Programming/Pascal/Типы данных/Строковые литералы.md",
     "pasted_sources/Pasted image 20241117180929.png",
     "Programming/Динамические структуры данных",
     "pasted_sources/Pasted image 20241117162205.png",
@@ -251,7 +266,6 @@
     "Programming/Pascal/Контроль хода программы",
     "Programming/Pascal/Типы данных",
     "Programming/Pascal",
-    "Programming/Python/Полезные встроенные функции",
     "pasted_sources/Pasted image 20241102194928.png"
   ]
 }
