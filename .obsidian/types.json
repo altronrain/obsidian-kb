@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "закончил читать": "date",
-    "пройдено": "checkbox"
+    "пройдено": "checkbox",
+    "начал читать": "date"
   }
 }
