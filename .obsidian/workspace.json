@@ -27,16 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/NASM/Система команд i386/Стек и подпрограммы/Стековые фреймы и их организация.md",
+                "file": "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стековые фреймы и их организация"
+              "title": "Локальные метки"
+            }
+          },
+          {
+            "id": "5f4f282a95f6ca21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Полезные утилиты отладки/strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings"
+            }
+          },
+          {
+            "id": "3a9f6357d24822c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/NASM/Модули в NASM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модули в NASM"
+            }
+          },
+          {
+            "id": "c60a2ff5327220fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Конструирование программ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конструирование программ"
+            }
+          },
+          {
+            "id": "d4d52d9507a519e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Алгоритмически полные языки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритмически полные языки"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,45 +233,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d96f10ea98931812",
+  "active": "d4d52d9507a519e1",
   "lastOpenFiles": [
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и подпрограммы. Оглавление.md",
+    "Programming/Библиотеки.md",
+    "Programming/Алгоритм работы редактора связей.md",
+    "Programming/Алгоритмически полные языки.md",
+    "Programming/NASM/Модули в NASM.md",
+    "Programming/Интерфейсы. API.md",
+    "Programming/Рекурсия.md",
+    "Programming/Конструирование программ.md",
+    "Programming/Компиляция программ.md",
+    "Linux/Полезные утилиты отладки/nm.md",
+    "Linux/Полезные утилиты отладки/hexdump.md",
+    "Linux/Полезные утилиты отладки/strings.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стековые фреймы и их организация.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и его предназначение.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и подпрограммы. Оглавление.md",
+    "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
+    "pasted_sources/Pasted image 20241210204444.png",
+    "Programming/NASM/Макропроцессор/Виды макросов. Понятия о макропроцессоре.md",
+    "Programming/NASM/Макропроцессор/Макродирективы работы со строками.md",
+    "Programming/NASM/Особенности NASM/Директивы.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
+    "Programming/NASM/Система команд i386/Операции/Неделимость операций.md",
+    "Programming/NASM/Модули. Раздельная трансляция",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Рекурсия подпрограмм и порча регистров.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Подпрограммы.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Конвенции вызовов подпрограмм.md",
     "Programming/NASM/Система команд i386/Конвенция системных вызовов ОС FreeBSD.md",
     "Programming/NASM/Система команд i386/Доступ к параметрам командной строки.md",
     "Programming/NASM/Система команд i386/Операции/Побитовые операции.md",
-    "Programming/NASM/Система команд i386/Операции/Неделимость операций.md",
-    "Programming/NASM/Система команд i386/Операции/Команда пересылки.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стековые фреймы и их организация.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
-    "Programming/NASM/Система команд i386/Конвенция системных вызовов ОС Linux.md",
     "pasted_sources/Pasted image 20241208094755.png",
     "pasted_sources/Pasted image 20241208094804.png",
     "pasted_sources/Pasted image 20240919221925.png",
     "pasted_sources/Pasted image 20241208092836.png",
-    "Programming/NASM/Адресация. Прямая и косвенная.md",
-    "Programming/NASM/Память пользовательской задачи. Сегменты.md",
-    "Programming/NASM/Система регистров.md",
-    "Programming/NASM/Структура программы.md",
-    "Архитектура ПК и ОС/ОС/Прерывания, исключения, системные вызовы.md",
-    "Архитектура ПК и ОС/ОС/Особенности разработки в мультизадачных ОС.md",
-    "Архитектура ПК и ОС/ОС/Аппаратная поддержка мультизадачности.md",
-    "Архитектура ПК и ОС/ОС/Системные вызовы и программные прерывания.md",
-    "Programming/NASM/Макропроцессор/Условная компиляция.md",
-    "Книги/2024/!Кельтские мифы.md",
-    "Книги/2024/Ирландские саги.md",
-    "Архитектура ПК и ОС/ОС/Взаимодействие программ и ОС.md",
-    "Архитектура ПК и ОС/ОС/Задачи операционной системы.md",
     "pasted_sources/Pasted image 20241207145826.png",
     "pasted_sources/Pasted image 20241207142043.png",
     "pasted_sources/Pasted image 20241207141514.png",
     "Архитектура ПК и ОС/ОС",
     "pasted_sources/Pasted image 20241205222057.png",
     "pasted_sources/Pasted image 20241205220748.png",
-    "pasted_sources/Pasted image 20241205214741.png",
     "Programming/NASM/Макропроцессор",
     "Programming/NASM/Особенности NASM",
     "Programming/NASM/Система команд i386/Стек и подпрограммы",
@@ -223,7 +280,6 @@
     "Programming/NASM/Система команд i386/Операции",
     "Programming/NASM/Типы данных",
     "Programming/NASM/Система команд i386",
-    "Programming/NASM",
-    "Programming/Отладка программ"
+    "Programming/NASM"
   ]
 }
