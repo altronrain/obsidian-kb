@@ -8,91 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18a5b2a93353ff31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/NASM/Система команд i386/Стек и подпрограммы/Конвенции вызовов подпрограмм.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Конвенции вызовов подпрограмм"
-            }
-          },
-          {
-            "id": "d96f10ea98931812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Локальные метки"
-            }
-          },
-          {
-            "id": "5f4f282a95f6ca21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Полезные утилиты отладки/strings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strings"
-            }
-          },
-          {
             "id": "3a9f6357d24822c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/NASM/Модули в NASM.md",
+                "file": "Programming/NASM/Система команд i386/Операции/Команда пересылки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модули в NASM"
+              "title": "Команда пересылки"
             }
           },
           {
-            "id": "c60a2ff5327220fe",
+            "id": "60d12bfcab2665d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Конструирование программ.md",
+                "file": "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Устройство сопроцессора.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конструирование программ"
+              "title": "Устройство сопроцессора"
             }
           },
           {
-            "id": "d4d52d9507a519e1",
+            "id": "97107c25b238b734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Алгоритмически полные языки.md",
+                "file": "Linux/Полезные утилиты отладки/nm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмически полные языки"
+              "title": "nm"
+            }
+          },
+          {
+            "id": "0fa99c604666ff14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Приоритеты пакетного менеджера apt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Приоритеты пакетного менеджера apt"
+            }
+          },
+          {
+            "id": "551879975fb81dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПК и ОС/Форматы чисел с плавающей точкой.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Форматы чисел с плавающей точкой"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,53 +219,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d4d52d9507a519e1",
+  "active": "47c93b965ec146ef",
   "lastOpenFiles": [
-    "Programming/Библиотеки.md",
-    "Programming/Алгоритм работы редактора связей.md",
-    "Programming/Алгоритмически полные языки.md",
-    "Programming/NASM/Модули в NASM.md",
-    "Programming/Интерфейсы. API.md",
-    "Programming/Рекурсия.md",
-    "Programming/Конструирование программ.md",
-    "Programming/Компиляция программ.md",
-    "Linux/Полезные утилиты отладки/nm.md",
     "Linux/Полезные утилиты отладки/hexdump.md",
+    "Linux/Приоритеты пакетного менеджера apt.md",
+    "Linux/Полезные утилиты отладки/nm.md",
     "Linux/Полезные утилиты отладки/strings.md",
+    "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Команды для работы с сопроцессором.md",
+    "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Устройство сопроцессора.md",
+    "Programming/NASM/Система регистров.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Стековые фреймы и их организация.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и его предназначение.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и подпрограммы. Оглавление.md",
-    "Архитектура ПК и ОС/Текст как формат данных. Кодировка.md",
-    "pasted_sources/Pasted image 20241210204444.png",
-    "Programming/NASM/Макропроцессор/Виды макросов. Понятия о макропроцессоре.md",
-    "Programming/NASM/Макропроцессор/Макродирективы работы со строками.md",
-    "Programming/NASM/Особенности NASM/Директивы.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
-    "Programming/NASM/Система команд i386/Операции/Неделимость операций.md",
-    "Programming/NASM/Модули. Раздельная трансляция",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и его предназначение.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Рекурсия подпрограмм и порча регистров.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Подпрограммы.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Конвенции вызовов подпрограмм.md",
-    "Programming/NASM/Система команд i386/Конвенция системных вызовов ОС FreeBSD.md",
-    "Programming/NASM/Система команд i386/Доступ к параметрам командной строки.md",
+    "Programming/NASM/Система команд i386/Операции/Целочисленное умножение и деление.md",
+    "Programming/NASM/Система команд i386/Операции/Целочисленное сложение и вычитание.md",
+    "Programming/NASM/Система команд i386/Операции/Приоритет арифметических операций.md",
+    "Programming/NASM/Система команд i386/Операции/Примеры применения побитовых операций.md",
     "Programming/NASM/Система команд i386/Операции/Побитовые операции.md",
+    "Programming/NASM/Система команд i386/Операции/Неделимость операций.md",
+    "Programming/NASM/Система команд i386/Контроль хода программы/Условные и безусловные переходы.md",
+    "Programming/NASM/Система команд i386/Контроль хода программы/Ветвления и циклы.md",
+    "Programming/NASM/Система команд i386/Операции/Строковые операции.md",
+    "Programming/NASM/Система команд i386/Операции/Прочие команды и операции.md",
+    "pasted_sources/Pasted image 20241212221334.png",
+    "Programming/NASM/Система команд i386/Операции/Команда пересылки.md",
+    "pasted_sources/Pasted image 20241212220419.png",
+    "Архитектура ПК и ОС/Форматы чисел с плавающей точкой.md",
+    "Архитектура ПК и ОС/Машинное представление чисел с плавающей точкой.md",
+    "pasted_sources/Pasted image 20241212212537.png",
+    "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой",
+    "pasted_sources/Pasted image 20241210204444.png",
+    "Programming/NASM/Модули. Раздельная трансляция",
     "pasted_sources/Pasted image 20241208094755.png",
     "pasted_sources/Pasted image 20241208094804.png",
     "pasted_sources/Pasted image 20240919221925.png",
     "pasted_sources/Pasted image 20241208092836.png",
     "pasted_sources/Pasted image 20241207145826.png",
     "pasted_sources/Pasted image 20241207142043.png",
-    "pasted_sources/Pasted image 20241207141514.png",
     "Архитектура ПК и ОС/ОС",
-    "pasted_sources/Pasted image 20241205222057.png",
-    "pasted_sources/Pasted image 20241205220748.png",
     "Programming/NASM/Макропроцессор",
     "Programming/NASM/Особенности NASM",
     "Programming/NASM/Система команд i386/Стек и подпрограммы",
     "Programming/NASM/Система команд i386/Контроль хода программы",
     "Programming/NASM/Система команд i386/Операции",
     "Programming/NASM/Типы данных",
-    "Programming/NASM/Система команд i386",
-    "Programming/NASM"
+    "Programming/NASM/Система команд i386"
   ]
 }
