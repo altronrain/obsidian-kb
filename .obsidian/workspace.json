@@ -153,16 +153,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Управление сопроцессором.md",
+                "file": "Programming/C/Синтаксические собенности языка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление сопроцессором"
+              "title": "Синтаксические собенности языка"
+            }
+          },
+          {
+            "id": "b4e5e247f7ad41a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Директивы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Директивы"
+            }
+          },
+          {
+            "id": "e069859e2d2a7aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Заголовочные файлы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заголовочные файлы"
+            }
+          },
+          {
+            "id": "3d8bf5bfc0d71884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Синтаксические собенности языка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Синтаксические собенности языка"
+            }
+          },
+          {
+            "id": "e6d95e722c9df8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Компиляторы/gcc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gcc"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -303,10 +359,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8e87d75036c8488b",
+  "active": "e6d95e722c9df8a5",
   "lastOpenFiles": [
-    "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Устройство сопроцессора.md",
+    "Programming/C/Структура программы.md",
+    "Programming/Pascal/Структура программы.md",
+    "Programming/C/Синтаксические собенности языка.md",
+    "Programming/C/Типы данных",
+    "Programming/C/Компиляторы/gcc.md",
+    "Programming/C/Заголовочные файлы.md",
+    "Programming/C/Компиляторы",
+    "Programming/Алгоритм работы редактора связей.md",
+    "Programming/NASM/Макропроцессор/Условная компиляция.md",
+    "Programming/NASM/Адресация. Прямая и косвенная.md",
+    "Programming/NASM/Особенности NASM/Вычисления во время ассемблирования.md",
+    "Programming/NASM/Модули в NASM.md",
+    "Programming/Компиляция программ.md",
+    "Programming/Конструирование программ.md",
+    "Programming/C/Директивы.md",
+    "Programming/Pascal/Директивы.md",
     "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Управление сопроцессором.md",
+    "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Устройство сопроцессора.md",
     "pasted_sources/Pasted image 20241215180816.png",
     "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Обработка исключительных ситуаций.md",
     "Programming/NASM/Система команд i386/Операции/Арифметика с плавающей точкой/Сравнение и обработка его результатов.md",
@@ -319,21 +391,8 @@
     "Основы математики/Польская инверсная запись. Алгоритм Дейкстры.md",
     "Programming/NASM/Память пользовательской задачи. Сегменты.md",
     "Основы математики/Элементы комбинаторики.md",
-    "Архитектура ПК и ОС/Форматы чисел с плавающей точкой.md",
     "pasted_sources/Pasted image 20241214162424.png",
     "pasted_sources/Pasted image 20241214162231.png",
-    "Programming/NASM/Система команд i386/Операции/Команда пересылки.md",
-    "Linux/Приоритеты пакетного менеджера apt.md",
-    "Linux/Полезные утилиты отладки/hexdump.md",
-    "Linux/Полезные утилиты отладки/nm.md",
-    "Linux/Полезные утилиты отладки/strings.md",
-    "Programming/NASM/Система регистров.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стековые фреймы и их организация.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и подпрограммы. Оглавление.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Стек и его предназначение.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Рекурсия подпрограмм и порча регистров.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Локальные метки.md",
-    "Programming/NASM/Система команд i386/Стек и подпрограммы/Конвенции вызовов подпрограмм.md",
     "pasted_sources/Pasted image 20241212221334.png",
     "pasted_sources/Pasted image 20241212220419.png",
     "pasted_sources/Pasted image 20241212212537.png",
@@ -347,8 +406,6 @@
     "Programming/NASM/Особенности NASM",
     "Programming/NASM/Система команд i386/Стек и подпрограммы",
     "Programming/NASM/Система команд i386/Контроль хода программы",
-    "Programming/NASM/Система команд i386/Операции",
-    "Programming/NASM/Типы данных",
-    "Programming/NASM/Система команд i386"
+    "Programming/NASM/Система команд i386/Операции"
   ]
 }
