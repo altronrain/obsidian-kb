@@ -13,58 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
+                "file": "Programming/C/Типы данных/Модификатор const.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Адреса и указатели"
+              "title": "Модификатор const"
             }
           },
           {
-            "id": "2d917431bb618a77",
+            "id": "bd2092751bb5c683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Типы данных/Литералы (константы) разных типов.md",
+                "file": "Programming/C/Операции/Побитовые операции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Литералы (константы) разных типов"
-            }
-          },
-          {
-            "id": "3af58c6335a70495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Типы данных/Динамическая память.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Динамическая память"
-            }
-          },
-          {
-            "id": "fee7e34dfa72be76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Pascal/Типы данных/Использование указателей/Динамические переменные.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Динамические переменные"
+              "title": "Побитовые операции"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,35 +177,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3af58c6335a70495",
+  "active": "bd2092751bb5c683",
   "lastOpenFiles": [
+    "Programming/C/Операции/Логические операции.md",
+    "Programming/C/Операции/Побитовые операции.md",
+    "Programming/C/Операции/Операции сравнения.md",
+    "Programming/C/Операции/Операции и выражения.md",
+    "Programming/NASM/Система команд i386/Операции/Побитовые операции.md",
+    "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
+    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип.md",
+    "Programming/C/Типы данных/Перечислимый тип/Введение констант с помощью перечислимого типа.md",
     "Programming/C/Типы данных/Массивы.md",
+    "Programming/C/Типы данных/Литералы (константы) разных типов.md",
+    "Programming/C/Типы данных/Леводопустимые выражения.md",
+    "Programming/C/Типы данных/Модификатор const.md",
+    "Programming/C/Типы данных/Числа с плавающей точкой.md",
+    "Programming/C/Типы данных/Целые числа.md",
+    "Programming/C/Контроль хода программы и иные операторы/Циклы.md",
+    "Programming/C/Контроль хода программы и иные операторы/Вычисление выражения.md",
+    "Programming/C/Типы данных/Динамическая память.md",
     "Programming/Pascal/Типы данных/Использование указателей/Динамические переменные.md",
     "Programming/Pascal/Типы данных/Пользовательские типы данных/Массивы.md",
     "Programming/Pascal/Типы данных/Пользовательские типы данных/Пользовательские типы.md",
-    "Programming/C/Типы данных/Динамическая память.md",
-    "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
     "Programming/C/Типы данных/Использование указателей/Организация 'выходных' параметров функций.md",
     "Programming/C/Операции/Иные (экзотические) операции.md",
-    "Programming/C/Операции/Логические операции.md",
-    "Programming/C/Операции/Операции и выражения.md",
     "Programming/C/Операции/Операции с адресами и указателями.md",
-    "Programming/C/Операции/Операции сравнения.md",
-    "Programming/C/Операции/Побитовые операции.md",
     "Programming/C/Операции/Приоритет операций.md",
     "Programming/C/Операции/Присваивания и модификации.md",
-    "Programming/C/Типы данных/Литералы (константы) разных типов.md",
     "Programming/C/Типы данных/Использование указателей",
-    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип.md",
     "Programming/C/Переменные и их описание.md",
-    "Programming/C/Синтаксические собенности языка.md",
-    "Programming/C/Структура программы.md",
-    "Programming/C/Типы данных/Определение размеров любых типов.md",
-    "Programming/C/Типы данных/Целые числа.md",
-    "Programming/C/Типы данных/Числа с плавающей точкой.md",
-    "Programming/C/Контроль хода программы и иные операторы/Возврат из функции.md",
-    "Programming/C/Контроль хода программы и иные операторы/Ветвление.md",
-    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип и оператор выбора.md",
     "Programming/C/Типы данных/Перечислимый тип",
     "Книги/2025",
     "pasted_sources/Pasted image 20250116214331.png",
