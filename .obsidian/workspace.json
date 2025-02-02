@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Точки следования.md",
+                "file": "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Точки следования"
+              "title": "Посимвольный ввод-вывод"
+            }
+          },
+          {
+            "id": "310841239d8bdf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод-вывод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Форматированный ввод-вывод"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,9 +206,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "04902dafae725af5",
+  "active": "310841239d8bdf69",
   "lastOpenFiles": [
+    "Programming/C/Типы данных/Целые числа.md",
+    "Programming/C/Типы данных/Встроенные типы данных.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод-вывод.md",
+    "pasted_sources/Pasted image 20250202194537.png",
     "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
+    "Programming/C/Точки следования.md",
     "Programming/C/Стандартная библиотека/stdio.h",
     "Programming/C/Заголовочные файлы.md",
     "Programming/C/Стандартная библиотека",
@@ -204,7 +223,6 @@
     "Programming/C/Функции.md",
     "Programming/C/Структура программы.md",
     "Programming/C/Синтаксические собенности языка.md",
-    "Programming/C/Точки следования.md",
     "Programming/C/Операции/Инкремент и декремент.md",
     "Programming/NASM/Система команд i386/Стек и подпрограммы/Рекурсия подпрограмм и порча регистров.md",
     "Programming/Pascal/Типы данных/Использование указателей/Адреса и указатели.md",
@@ -213,15 +231,12 @@
     "Programming/NASM/Система команд i386/Доступ к параметрам командной строки.md",
     "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
     "Programming/C/Типы данных/Числа с плавающей точкой.md",
-    "Programming/C/Типы данных/Целые числа.md",
     "Programming/C/Типы данных/Определение размеров любых типов.md",
     "Programming/C/Типы данных/Модификатор const.md",
     "Programming/C/Типы данных/Массивы.md",
     "Programming/C/Типы данных/Литералы (константы) разных типов.md",
-    "Programming/C/Типы данных/Встроенные типы данных.md",
     "Programming/C/Типы данных/Леводопустимые выражения.md",
     "Programming/C/Типы данных/Динамическая память.md",
-    "Programming/C/Типы данных/Строки и строковые литералы/Обработка строковых литералов.md",
     "Programming/C/Типы данных/Строки и строковые литералы",
     "Programming/C/Типы данных/Использование указателей",
     "Programming/C/Типы данных/Перечислимый тип",
@@ -237,7 +252,6 @@
     "pasted_sources/Pasted image 20241214162231.png",
     "pasted_sources/Pasted image 20241212221334.png",
     "pasted_sources/Pasted image 20241212220419.png",
-    "pasted_sources/Pasted image 20241212212537.png",
-    "pasted_sources/Pasted image 20241210204444.png"
+    "pasted_sources/Pasted image 20241212212537.png"
   ]
 }
