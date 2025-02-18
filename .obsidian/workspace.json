@@ -1,85 +1,41 @@
 {
   "main": {
-    "id": "36109af1e6f771bd",
+    "id": "da7a47e27980035a",
     "type": "split",
     "children": [
       {
-        "id": "63cddf84d87f7b36",
+        "id": "9a5c3513241b85c1",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7b1b3da0962006",
+            "id": "1315514401f8ba4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Стандартная библиотека/stdio.h/Форматированный вывод `printf`.md",
+                "file": "Programming/C/Типы данных/Массивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Форматированный вывод `printf`"
-              "title": "Форматированный ввод-вывод"
-            }
-          },
-          {
-            "id": "b8f0e0dedb5f11f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Стандартная библиотека/stdio.h/Работа с файлами.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа с файлами"
-            }
-          },
-          {
-            "id": "7380e14b5990ba0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ввод-вывод отдельных строк"
-            }
-          },
-          {
-            "id": "53d5d273d46424d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Стандартная библиотека/stdio.h/Буферизация ввода-вывода.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Буферизация ввода-вывода"
+              "title": "Массивы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "43aae7673399b5e3",
+    "id": "aa49e4aeb026995d",
     "type": "split",
     "children": [
       {
-        "id": "075aedcd71c36d82",
+        "id": "bc10031635eeadab",
         "type": "tabs",
         "children": [
           {
-            "id": "47c93b965ec146ef",
+            "id": "c23084cb51c43743",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +48,7 @@
             }
           },
           {
-            "id": "5cf5268413860099",
+            "id": "c69143d38579e67b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -109,7 +65,7 @@
             }
           },
           {
-            "id": "a1159a1204f68f3a",
+            "id": "f61abaeea3fbe73e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 300
   },
   "right": {
-    "id": "2b48bd40f15125a1",
+    "id": "ca8cdb68ae60b010",
     "type": "split",
     "children": [
       {
-        "id": "3807f9725261ac6f",
+        "id": "8c5dab81894908d1",
         "type": "tabs",
         "children": [
           {
-            "id": "e765bad58e133a1c",
+            "id": "3d01e88db2c16f03",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/PyTest/Мокинг (mocking).md",
+                "file": "Programming/C/Типы данных/Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Мокинг (mocking)"
+              "title": "Обратные ссылки для Массивы"
             }
           },
           {
-            "id": "0e8386e92ab12efa",
+            "id": "85c7ab1cc4ced89c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/PyTest/Мокинг (mocking).md",
+                "file": "Programming/C/Типы данных/Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Мокинг (mocking)"
+              "title": "Исходящие ссылки из Массивы"
             }
           },
           {
-            "id": "18c24b15fb6dcd06",
+            "id": "07979f5f7ba1e8a3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "4f0b820309c08861",
+            "id": "25d42bec9fb2f820",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/PyTest/Мокинг (mocking).md"
+                "file": "Programming/C/Типы данных/Массивы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Мокинг (mocking)"
+              "title": "Структура Массивы"
             }
           }
         ]
@@ -207,51 +168,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "53d5d273d46424d5",
+  "active": "1315514401f8ba4d",
   "lastOpenFiles": [
+    "Programming/C/Стандартная библиотека/stdio.h/Форматированный вывод `printf`.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод `scanf`.md",
     "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
     "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
     "Programming/C/Стандартная библиотека/stdio.h/Буферизация ввода-вывода.md",
-    "Programming/C/Типы данных/Динамическая память.md",
-    "Programming/C/Типы данных/Массивы.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод-вывод.md",
     "Programming/C/Стандартная библиотека/stdio.h/Работа с файлами.md",
-    "Programming/C/Обработка ошибок при обращениях к ОС.md",
-    "Книги/2024/Ирландские мифы.md",
-    "Книги/2024/Ирландские саги.md",
-    "Книги/2024/Кельтские мифы.md",
-    "Книги/2024/Предания и мифы средневековой Ирландии.md",
-    "Книги/2024/Саги об уладах.md",
-    "Книги/2024/Тестирование и отладка программ.md",
-    "Книги/2025/!Волшебные кельтские сказки.md",
-    "Книги/2025/Записки о галльской войне.md",
-    "Книги/2025/Мабиногион.md",
-    "Programming/Динамические структуры данных/Динамические структуры данных. Работа с указателями.md",
-    "Programming/Динамические структуры данных/Абстрактные объекты.md",
-    "Programming/Алгоритм работы редактора связей.md",
-    "Programming/Библиотеки.md",
-    "Programming/Интерфейсы. API.md",
-    "Programming/NASM/Система команд i386/Доступ к параметрам командной строки.md",
-    "Programming/C/Директивы.md",
-    "Programming/C/Типы данных/Целые числа.md",
-    "Programming/C/Типы данных/Встроенные типы данных.md",
-    "pasted_sources/Pasted image 20250202194537.png",
-    "Programming/C/Стандартная библиотека/stdio.h",
-    "Programming/C/Стандартная библиотека",
-    "pasted_sources/Pasted image 20250130205557.png",
-    "Programming/C/Типы данных/Строки и строковые литералы",
-    "Programming/C/Типы данных/Использование указателей",
-    "Programming/C/Типы данных/Перечислимый тип",
-    "Книги/2025",
-    "pasted_sources/Pasted image 20250116214331.png",
-    "Programming/C/Контроль хода программы и иные операторы",
-    "Programming/C/Операции",
-    "Programming/C/Типы данных",
-    "Programming/C/Компиляторы",
-    "pasted_sources/Pasted image 20241215180816.png",
-    "pasted_sources/Pasted image 20241215161055.png",
-    "pasted_sources/Pasted image 20241214162424.png",
-    "pasted_sources/Pasted image 20241214162231.png",
-    "pasted_sources/Pasted image 20241212221334.png"
+    "Programming/C/Стандартная библиотека/stdio.h/Работа с текстовыми файлами.md"
   ]
 }
