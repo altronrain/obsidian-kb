@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Модули Python/PyTest/Тестирование ожидаемых исключений.md",
+                "file": "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тестирование ожидаемых исключений"
+              "title": "Ввод-вывод отдельных строк"
+            }
+          },
+          {
+            "id": "a1fae2659ad8df4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Стандартная библиотека/stdio.h/'Вывод' в строку и 'ввод' из строки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "'Вывод' в строку и 'ввод' из строки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,9 +178,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5117cf98cd6d9249",
+  "active": "a1fae2659ad8df4d",
   "lastOpenFiles": [
+    "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Буферизация ввода-вывода.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Работа с файлами.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Форматированный вывод `printf`.md",
+    "Programming/C/Стандартная библиотека/stdio.h/'Вывод' в строку и 'ввод' из строки.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод `scanf`.md",
+    "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
     "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
+    "Programming/Python/Модули Python/PyTest/Тестирование ожидаемых исключений.md",
     "Linux/Основы использования ОС/Секции документации man.md",
     "Книги/2024/Ирландские мифы.md",
     "pasted_sources/Pasted image 20250206195231.png",
@@ -173,17 +196,10 @@
     "pasted_sources/Pasted image 20250202194537.png",
     "pasted_sources/Pasted image 20250130205557.png",
     "Programming/C/Точки следования.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Форматированный вывод `printf`.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод `scanf`.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Работа с файлами.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Буферизация ввода-вывода.md",
     "Programming/C/Стандартная библиотека/stdio.h",
     "Programming/C/Стандартная библиотека",
     "Programming/C/Обработка ошибок при обращениях к ОС.md",
     "Programming/C/Аргументы командной строки.md",
-    "Programming/Python/Модули Python/PyTest/Тестирование ожидаемых исключений.md",
     "Programming/Python/Модули Python/PyTest/Основы PyTest.md",
     "Programming/Python/Модули Python/PyTest/Мокинг (mocking).md",
     "Programming/Python/Модули Python/PyTest/Маркеры (метки).md",
@@ -197,7 +213,6 @@
     "Programming/C/Типы данных/Строки и строковые литералы/Обработка строковых литералов.md",
     "Programming/C/Типы данных/Литералы (константы) разных типов.md",
     "Programming/C/Типы данных/Строки и строковые литералы",
-    "Programming/C/Типы данных/Се.md",
     "Programming/C/Типы данных/Использование указателей",
     "Programming/C/Типы данных/Перечислимый тип",
     "Книги/2025",
