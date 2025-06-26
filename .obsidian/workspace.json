@@ -111,16 +111,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/2025/Мадонна в черном.md",
+                "file": "Programming/NASM/Макропроцессор/Условная компиляция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мадонна в черном"
+              "title": "Условная компиляция"
+            }
+          },
+          {
+            "id": "aac91d6da5076394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/2025/Мифы и легенды Китая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мифы и легенды Китая"
+            }
+          },
+          {
+            "id": "0af55f044e2646fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Системы сборки/bitbake/Основы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -262,50 +290,50 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2d39d7bb7b1912b8",
+  "active": "0af55f044e2646fb",
   "lastOpenFiles": [
-    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Методы черного ящика.md",
+    "pasted_sources/Pasted image 20250626215755.png",
     "Книги/2025/Мифы и легенды Китая.md",
+    "Книги/2025/Полная история Китая.md",
+    "Programming/Системы сборки/bitbake/Основы.md",
+    "Programming/Системы сборки/bitbake",
+    "Programming/Системы сборки",
+    "Programming/NASM/Макропроцессор/Условная компиляция.md",
+    "Programming/NASM/Макропроцессор/Макроповторения.md",
+    "Programming/NASM/Макропроцессор/Макродирективы работы со строками.md",
+    "Programming/NASM/Структура программы.md",
+    "Programming/NASM/Система регистров.md",
+    "Programming/NASM/Модули в NASM.md",
+    "Programming/NASM/Адресация. Прямая и косвенная.md",
+    "Programming/NASM/Типы данных/Числа.md",
+    "Programming/NASM/Типы данных/Строковые литералы.md",
+    "Programming/NASM/Типы данных/Виды операндов.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Рекурсия подпрограмм и порча регистров.md",
+    "Programming/NASM/Система команд i386/Стек и подпрограммы/Конвенции вызовов подпрограмм.md",
+    "Programming/NASM/Особенности NASM/Локальные метки.md",
+    "Programming/NASM/Особенности NASM/Вычисления во время ассемблирования.md",
+    "Programming/NASM/Макропроцессор/Виды макросов. Понятия о макропроцессоре.md",
+    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Инструменты тестирования.md",
+    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Активности тестирования, тестовое обеспечение, роли в тестировании.md",
     "Книги/2025/Мадонна в черном.md",
+    "QA/Теория тестирования/Конспекты/ISTQB (2023)/Методы черного ящика.md",
     "Книги/2025/Без названия 1.md",
     "Книги/2025/Хоббит.md",
     "Книги/2025/Волшебные кельтские сказки.md",
-    "Книги/2025/Мабиногион.md",
-    "Programming/C/Типы данных/Структуры/Структуры.md",
-    "Programming/C/Типы данных/Структуры/Применение структур для описания битовых полей.md",
     "pasted_sources/Pasted image 20250301124223.png",
     "Programming/C/Типы данных/Структуры",
-    "Programming/C/Типы данных/Динамическая память.md",
-    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип.md",
-    "Programming/C/Типы данных/Перечислимый тип/Введение констант с помощью перечислимого типа.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Блочный ввод-вывод.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Буферизация ввода-вывода.md",
-    "Programming/C/Стандартная библиотека/stdio.h/'Вывод' в строку и 'ввод' из строки.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Посимвольный ввод-вывод.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Работа с файлами.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Ввод-вывод отдельных строк.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Форматированный вывод `printf`.md",
-    "Programming/C/Стандартная библиотека/stdio.h/Форматированный ввод `scanf`.md",
-    "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
-    "Programming/Python/Модули Python/PyTest/Тестирование ожидаемых исключений.md",
-    "Linux/Основы использования ОС/Секции документации man.md",
-    "Книги/2024/Ирландские мифы.md",
     "pasted_sources/Pasted image 20250206195231.png",
     "pasted_sources/Pasted image 20250206195212.png",
     "pasted_sources/Pasted image 20250202194537.png",
     "pasted_sources/Pasted image 20250130205557.png",
-    "Programming/C/Точки следования.md",
     "Programming/C/Стандартная библиотека/stdio.h",
     "Programming/C/Стандартная библиотека",
-    "Programming/C/Обработка ошибок при обращениях к ОС.md",
     "Programming/C/Типы данных/Строки и строковые литералы",
     "Programming/C/Типы данных/Использование указателей",
     "Programming/C/Типы данных/Перечислимый тип",
     "Книги/2025",
     "pasted_sources/Pasted image 20250116214331.png",
     "Programming/C/Контроль хода программы и иные операторы",
-    "Programming/C/Операции",
-    "Programming/C/Типы данных",
     "pasted_sources/Pasted image 20241215180816.png",
     "pasted_sources/Pasted image 20241215161055.png",
     "pasted_sources/Pasted image 20241214162424.png",
