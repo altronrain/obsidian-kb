@@ -134,6 +134,20 @@
             }
           },
           {
+            "id": "78700426a33b6c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/2025/Греческие и римские мифы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Греческие и римские мифы"
+            }
+          },
+          {
             "id": "0af55f044e2646fb",
             "type": "leaf",
             "state": {
@@ -148,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -282,6 +296,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -290,7 +305,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7790b76b6f855ecc",
+  "active": "78700426a33b6c63",
   "lastOpenFiles": [
     "Книги/2025/Греческие и римские мифы.md",
     "Книги/2025/Без названия.md",
