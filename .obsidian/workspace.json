@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Полезные утилиты отладки/hexdump.md",
+                "file": "Gaming/Might and Magic 6/Прокачка статов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hexdump"
+              "title": "Прокачка статов"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "78b9f49ea4761e1f",
   "lastOpenFiles": [
-    "Linux/Полезные утилиты отладки/ltrace.md",
     "Linux/Полезные утилиты отладки/hexdump.md",
+    "Linux/Полезные утилиты отладки/ltrace.md",
     "Linux/Полезные утилиты отладки/strings.md",
     "Linux/Полезные утилиты отладки/strace.md",
     "Linux/Полезные утилиты отладки/nm.md",
