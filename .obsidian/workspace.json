@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d72a04e2a292a3d",
+        "id": "95c88fb364a216dc",
         "type": "tabs",
         "children": [
           {
-            "id": "78b9f49ea4761e1f",
+            "id": "237829757e95d365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/Might and Magic 6/Прокачка статов.md",
+                "file": "Programming/C/Типы данных/Целые числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прокачка статов"
-            }
-          },
-          {
-            "id": "8ad0fc41f665619f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Полезные утилиты отладки/strace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strace"
+              "title": "Целые числа"
             }
           }
         ]
@@ -178,36 +164,37 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "78b9f49ea4761e1f",
+  "active": "237829757e95d365",
   "lastOpenFiles": [
-    "Linux/Полезные утилиты отладки/hexdump.md",
-    "Linux/Полезные утилиты отладки/ltrace.md",
-    "Linux/Полезные утилиты отладки/strings.md",
-    "Linux/Полезные утилиты отладки/strace.md",
-    "Linux/Полезные утилиты отладки/nm.md",
-    "Linux/Полезные утилиты отладки/Без названия.md",
-    "Gaming/Might and Magic 6/Places (MM6)/Castle Ironfist.md",
-    "Gaming/Might and Magic 6/Places (MM6)/Bootleg Bay.md",
-    "Gaming/Might and Magic 6/Прокачка статов.md",
-    "Gaming/Might and Magic 6/Прогрессия в классе.md",
-    "Gaming/Might and Magic 6/Наймиты.md",
-    "Gaming/Might and Magic 6/Интересные слухи (MM6).md",
-    "Gaming/Might and Magic 6/Алхимические рецепты.md",
-    "Gaming/Might and Magic 6/Places (MM6)/Mist.md",
-    "Gaming/Might and Magic 6/Places (MM6)/Free Heaven.md",
-    "Gaming/Might and Magic 6/Учителя мастера.md",
-    "Gaming/Might and Magic 6/Places (MM6)/New Sorpigal.md",
+    "Programming/C/Типы данных/Встроенные типы данных.md",
+    "Programming/C/Типы данных/Целые числа.md",
+    "Programming/C/Типы данных/Строки и строковые литералы/Обработка строковых литералов.md",
+    "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
+    "Programming/C/Типы данных/Литералы (константы) разных типов.md",
+    "Programming/C/Типы данных/Числа с плавающей точкой.md",
+    "Programming/C/Типы данных/Ключевые слова в C.md",
+    "pasted_sources/Pasted image 20250930172103.png",
+    "Programming/C/Функции.md",
+    "Programming/C/Контроль хода программы и иные операторы/Ветвление.md",
+    "Programming/C/Контроль хода программы и иные операторы/Циклы.md",
+    "Programming/C/Контроль хода программы и иные операторы/Составной оператор (блок); Локальные переменные.md",
+    "Programming/C/Контроль хода программы и иные операторы/Операторы языка C.md",
+    "Programming/C/Контроль хода программы и иные операторы/Оператор выбора.md",
+    "Programming/C/Контроль хода программы и иные операторы/Оператор goto.md",
+    "Programming/C/Контроль хода программы и иные операторы/Вычисление выражения.md",
+    "Programming/C/Контроль хода программы и иные операторы/Возврат из функции.md",
+    "Programming/C/Точки следования.md",
+    "Programming/C/Структура программы.md",
+    "Programming/C/Синтаксические собенности языка.md",
+    "Programming/C/Переменные и их описание.md",
+    "Programming/C/Обработка ошибок при обращениях к ОС.md",
+    "Programming/C/Заголовочные файлы.md",
+    "Programming/C/Директивы препроцессора.md",
+    "Programming/C/Типы данных/Модификатор const.md",
+    "Programming/C/Типы данных/Определение размеров любых типов.md",
+    "Programming/C/Типы данных/Массивы.md",
     "Gaming/Might and Magic 6/Places (MM6)",
     "Gaming/Might and Magic 6",
-    "Книги/2025/Греческие и римские мифы.md",
-    "Книги/2025/Полная история Китая.md",
-    "Книги/Заметки по книгам/Полная история Китая/Таймлайн периодов и династий.md",
-    "Книги/Заметки по книгам/Полная история Китая/О династиях/Чжоу.md",
-    "Книги/Заметки по книгам/Полная история Китая/Полная история Китая. Список заметок.md",
-    "Книги/Заметки по книгам/Полная история Китая/О зарождении конфуцианства.md",
-    "Книги/Заметки по книгам/Полная история Китая/Классические тексты и время их появления.md",
-    "Книги/Заметки по книгам/Полная история Китая/О династиях/Шан.md",
-    "Книги/Заметки по книгам/Полная история Китая/О династиях/Хань.md",
     "Книги/Заметки по книгам/Полная история Китая/О династиях",
     "pasted_sources/photo_2025-07-15_21-27-38.jpg",
     "Книги/Заметки по книгам/Полная история Китая",
@@ -224,7 +211,6 @@
     "Programming/C/Стандартная библиотека/stdio.h",
     "Programming/C/Стандартная библиотека",
     "pasted_sources/Pasted image 20250116214331.png",
-    "pasted_sources/Pasted image 20241215180816.png",
-    "pasted_sources/Pasted image 20241215161055.png"
+    "pasted_sources/Pasted image 20241215180816.png"
   ]
 }
