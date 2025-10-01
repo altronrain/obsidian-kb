@@ -8,11 +8,12 @@
 6. Taro the Teacher -- Earth Magic Expert (Rank 4, 1000)
 7. Isao Magistrus the Teacher -- Fire Magic Expert (Rank 4, 1000)
 8. Douglas Hill the Teacher -- Water Maigic Expert (Rank 4, 1000)
-9. Viktor Hosen the Teacher -- Meditation Expert (Rank 4, 500)
-10. Erik Salzburg the Teacher -- Body Building Expert (Rank 4, 500)
-11. Donald Retzer the Teacher -- Learning Expert (Rank 4, 2000)
-12. Igor the Teacher -- Ancient Weapon Expert (надо знать скилл)
-13. Dorf the Teacher -- Staff Expert (Rank 4, 2000)
+9. Cheryl Duncan -- Air Magic Expert (Rank 4, 1000)
+10. Viktor Hosen the Teacher -- Meditation Expert (Rank 4, 500)
+11. Erik Salzburg the Teacher -- Body Building Expert (Rank 4, 500)
+12. Donald Retzer the Teacher -- Learning Expert (Rank 4, 2000)
+13. Igor the Teacher -- Ancient Weapon Expert (надо знать скилл)
+14. Dorf the Teacher -- Staff Expert (Rank 4, 2000)
 
 ## Гильдии
 

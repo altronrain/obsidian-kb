@@ -10,14 +10,14 @@
 8. Stephen Biggs the Teacher -- Axe Expert (Rank 4, 2000)
 9. Aaron Strongamun the Teacher -- Sword Expert (Rank 4, 2000)
 10. Olaf Berring the Teacher -- Body Building Expert (Rank 4, 500)
-11. Bishop Inquisitorio the Teacher -- Spirit Magic Master (Rank 4, 500)
+11. Bishop Inquisitorio the Teacher -- Spirit Magic Master (Rank 12, 0)
 12. Elton Astrogate the Teacher -- Learning Expert (Rank 4, 2000)
 13. Walter Hargreaves the Teacher -- Diplomacy Expert (Rank 4, 500)
 
 ## Гильдии
 
 1. Blades' End -- Plate, Chain, Shield, Repair Item
-2. Berserker's Fury -- 
+2. Berserker's Fury
 
 ## Квесты
 

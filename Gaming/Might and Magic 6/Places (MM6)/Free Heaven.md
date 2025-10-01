@@ -18,7 +18,7 @@
 
 ## Гильдии
 
-1.  Guild of Fire
+1. Guild of Fire
 2. Guild of Water
 3. Guild of Air
 4. Guild of Earth
