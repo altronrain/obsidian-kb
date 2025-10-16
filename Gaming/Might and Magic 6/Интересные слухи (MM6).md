@@ -5,6 +5,11 @@
 3. Conan -- топор, зачарованный против драконов и демонов
 4. Arthur -- корона, увеличивающая физические статы и SP
 5. Igraine -- кольцо для Paladin и Cleric
+6. Athena -- кольцо +100 Intellect -40 Might
+7. Hermes -- ботинки, дарующие скорость
+8. Atlas -- плащ +100 Might -40 Speed
+9. Hades -- меч, 20 Poison damage, 20 Luck, Thievery, Negative Regeneration
+10. Zeus -- plate armor, +50 HP, +50 SP, +50 Luck, -50 Intellect
 ## Разное
 
 1. Статуи на острове посреди Звездного озера (что делают?)
