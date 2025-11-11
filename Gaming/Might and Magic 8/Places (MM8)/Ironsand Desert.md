@@ -11,7 +11,6 @@
 
 1. Pole's Hovel (Pole) -- доставить 6 зелий в самые южные домики деревни
 2. Pole's Hovel (Julian Greensward) -- найти новый дом для троллей (откуда они ранее пришли)
-3. Shmecker's Hovel (Volog Sandwind) -- 
 
 ## Полезная информация об округе
 
@@ -21,11 +20,13 @@
 4. Shmecker's Hovel (Shmecker) -- скупка Royal Wasp Jelly (1000)
 5. Над входом в пещеру (Cave) стоит Test of Speed (50) (+7 Skill Points)
 6. Справа от каменной арки поодаль есть сундук
+7. Вокруг крепости циклопов можно найти 6 сундуков
 
 ## Рекруты
 
 1. Sethrc Thistlebone -- Thistlebone Residence -- ? 
 2. Overdune Snapfinger -- Overdune's House -- отнести прав в Troll Tomb
+3. Volog Sandwind -- Schmecker's Hovel -- выполнить квест на повышение (отыскать древний дом троллей)
 
 ## Колодцы и фонтаны
 
@@ -35,3 +36,4 @@
 
 1. Cave (внутри драконы)
 2. Troll Tomb (done)
+3. Cyclops Larder (done)

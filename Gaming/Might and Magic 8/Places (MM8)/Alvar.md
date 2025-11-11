@@ -1,3 +1,4 @@
+![[Pasted image 20251109025735.png]]
 ## Учителя
 
 1. Withersmythe Estate (Ashandra Withersmythe) -- Master Spear (Rank 7, 5000)
@@ -60,5 +61,5 @@
 ## Подземелья
 
 1. Ogre Raiding Fort (done)
-2. Dark Dwarf Compound
+2. Dark Dwarf Compound (done)
 3. Wasp Nest (2 входа) (done)
