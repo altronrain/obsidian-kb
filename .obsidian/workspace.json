@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/Might and Magic 8/Places (MM8)/Dagger Wound Island.md",
+                "file": "Gaming/Might and Magic 8/Places (MM8)/Ravenshore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dagger Wound Island"
+              "title": "Ravenshore"
             }
           }
         ],
@@ -209,10 +209,12 @@
   },
   "active": "081c1436daa6f413",
   "lastOpenFiles": [
-    "pasted_sources/Pasted image 20251112004355.png",
-    "Gaming/Might and Magic 8/Алхимические рецепты.md",
     "Gaming/Might and Magic 8/Учителя.md",
+    "Gaming/Might and Magic 8/Прокачка статов.md",
     "Gaming/Might and Magic 8/Places (MM8)/Garrote Gorge.md",
+    "Gaming/Might and Magic 8/Алхимические рецепты.md",
+    "Gaming/Might and Magic 8/Places (MM8)/Dagger Wound Island.md",
+    "pasted_sources/Pasted image 20251112004355.png",
     "Gaming/Might and Magic 8/Places (MM8)/Shadowspire.md",
     "Gaming/Might and Magic 8/Places (MM8)/Ironsand Desert.md",
     "Gaming/Might and Magic 8/Рекруты.md",
@@ -220,11 +222,9 @@
     "Gaming/Might and Magic 8/Places (MM8)/Ravenshore.md",
     "pasted_sources/Pasted image 20251110004842.png",
     "Gaming/Might and Magic 8/Прогрессия в классе.md",
-    "Gaming/Might and Magic 8/Прокачка статов.md",
     "Gaming/Might and Magic 8/Places (MM8)/Ravage Roaming.md",
     "Gaming/Might and Magic 7/Прогрессия в классе.md",
     "Gaming/Might and Magic 8/Places (MM8)/Alvar.md",
-    "Gaming/Might and Magic 8/Places (MM8)/Dagger Wound Island.md",
     "pasted_sources/Pasted image 20251109210508.png",
     "pasted_sources/Pasted image 20251109025735.png",
     "pasted_sources/Pasted image 20251109024056.png",
@@ -246,7 +246,6 @@
     "pasted_sources/Pasted image 20251030184401.png",
     "pasted_sources/Pasted image 20251030132615.png",
     "pasted_sources/Pasted image 20251030120258.png",
-    "pasted_sources/Pasted image 20251029232150.png",
     "Gaming/Might and Magic 7/Places (MM7)",
     "Gaming/Might and Magic 7",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных",
