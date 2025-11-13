@@ -14,19 +14,19 @@
 
 ## Полезная информация об округе
 
-1. В городе стоит Challendge of Personality (50)
-2. Talion's Hovel (Talion) -- принести ингредиенты для Potion of Pure Endurance (3 базовых)
-3. У дома Overdune's House стоит 2 сундука
-4. Shmecker's Hovel (Shmecker) -- скупка Royal Wasp Jelly (1000)
-5. Над входом в пещеру (Cave) стоит Test of Speed (50) (+7 Skill Points)
-6. Справа от каменной арки поодаль есть сундук
-7. Вокруг крепости циклопов можно найти 6 сундуков
+1. Talion's Hovel (Talion) -- принести ингредиенты для Potion of Pure Endurance (3 базовых)
+2. У дома Overdune's House стоит 2 сундука
+3. Shmecker's Hovel (Shmecker) -- скупка Royal Wasp Jelly (1000)
+4. Над входом в пещеру (Cave) стоит Test of Speed (50) (+7 Skill Points)
+5. Справа от каменной арки поодаль есть сундук
+6. Вокруг крепости циклопов можно найти 6 сундуков
 
 ## Рекруты
 
 1. Sethrc Thistlebone -- Thistlebone Residence -- ? 
 2. Overdune Snapfinger -- Overdune's House -- отнести прав в Troll Tomb
 3. Volog Sandwind -- Schmecker's Hovel -- выполнить квест на повышение (отыскать древний дом троллей)
+4. Flamdring (Dragon) -- A Cave (Flamdring's Cave) -- добраться до него
 
 ## Колодцы и фонтаны
 
@@ -34,6 +34,6 @@
 
 ## Подземелья
 
-1. Cave (внутри драконы)
+1. Cave (внутри драконы) (done)
 2. Troll Tomb (done)
 3. Cyclops Larder (done)

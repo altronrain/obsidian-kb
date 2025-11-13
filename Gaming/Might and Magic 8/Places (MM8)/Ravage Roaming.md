@@ -45,4 +45,4 @@ Balthazar Lair:
 1. Church of Eep (done)
 2. Balthazar's Lair city  (done)
 3. Barbarian Fortress (done)
-4. The Crypt of Korbu
+4. The Crypt of Korbu (done)

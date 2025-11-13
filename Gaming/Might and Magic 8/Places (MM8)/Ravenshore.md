@@ -33,7 +33,7 @@
 
 ## Полезная информация об округе
 
-1. В городе стоит Challendge of Personality (50)
+1. В городе стоит Challendge of Endurance (200)
 2. За Hostel слева от кристалла есть сундук
 3. Nebrick's House (Nebrick) -- покупает Silver Dust of the Sea, продает Forged Credit Vouchers (6500)
 4. Treblid's Home (Treblid) -- покупает Tobersk Fruit, продает Tobersk Pulp
@@ -46,6 +46,7 @@
 11. Поодаль от входа в Dire Wolf Den есть холм с костром и сундуком
 12. За Chapel of Eep стоит 2 бочки с прокачкой статов
 13. За Chapel of Eep на утесе стоит Contest of Personality (100)
+14. На утесе выше Wolf Den стоит сундук (видно в полете)
 
 ## Рекруты
 

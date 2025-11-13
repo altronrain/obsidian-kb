@@ -36,4 +36,4 @@
 
 1. Temple of the Sun
 2. Ancient Troll Home (done)
-3. Druid Circle
+3. Druid Circle (done)

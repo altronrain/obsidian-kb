@@ -41,6 +41,7 @@
 3. Infaustus (Vampire) -- Infaustus' House -- Exp
 4. Hevatia Deverbero (Lich) -- Deverbero Residence -- завершить арку противостояния с Temple of the Sun
 5. Artorius Veritas (Vampire) -- Veritas Estate -- Exp
+6. Brimstone (Dragon) -- A cave (Brimstone's Cave) -- добраться до него, Exp
 
 ## Колодцы и фонтаны
 
@@ -51,5 +52,5 @@
 
 1. Vampyre Crypt (done)
 2. Necromancer's Guild
-3. Cave (в самом правом верхнем углу карты)
-4. Mad Necromancer's Lab
+3. Cave (в самом правом верхнем углу карты) (done)
+4. Mad Necromancer's Lab (done)
