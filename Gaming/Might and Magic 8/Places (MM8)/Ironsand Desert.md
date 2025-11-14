@@ -1,3 +1,4 @@
+![[Pasted image 20251114225136.png]]
 ## Учителя
 
 1. Hearthsworn Hovel (Brother Hearthsworn) -- Grand Master Mace (Rank 10, 8000)
@@ -37,3 +38,4 @@
 1. Cave (внутри драконы) (done)
 2. Troll Tomb (done)
 3. Cyclops Larder (done)
+4. Chain of fire (done)

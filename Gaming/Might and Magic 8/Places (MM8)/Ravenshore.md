@@ -63,9 +63,10 @@
 
 ## Подземелья
 
-1. Merchant House of Alvar
+1. Merchant House of Alvar (done)
 2. The Vault of Time
 3. Smuggler's Cove (done)
 4. Dire Wolf Den (done)
 5. Chapel of Eep (done)
 6. Tomb of Lord Brinne (done)
+7. Escaton's Crystal

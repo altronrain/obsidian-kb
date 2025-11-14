@@ -67,3 +67,5 @@
 ## Подземелья
 
 1. Abandoned Temple (осталось 4 сундука в углах)
+2. Uplifted Library (done)
+3. Pirate Outpust (после созыва союза) (done)
