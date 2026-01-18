@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Операции/Арифметические операции.md",
+                "file": "Programming/C/Синтаксические собенности языка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Арифметические операции"
+              "title": "Синтаксические собенности языка"
+            }
+          },
+          {
+            "id": "fe8aab6a4a647fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Выражения и операторы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Выражения и операторы"
+            }
+          },
+          {
+            "id": "b648b47d57928999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Побочный эффект и точки следования.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Побочный эффект и точки следования"
             }
           },
           {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,35 +221,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8028e6da3a7ab5c0",
+  "active": "b648b47d57928999",
   "lastOpenFiles": [
+    "Programming/C/Побочные эффекты.md",
+    "Programming/C/Побочный эффект и точки следования.md",
+    "Programming/C/Структура программы.md",
+    "Programming/C/Выражения и операторы.md",
+    "Programming/C/Директивы препроцессора.md",
+    "Programming/C/Аргументы командной строки.md",
+    "Programming/C/Заголовочные файлы.md",
+    "Programming/C/Синтаксические собенности языка.md",
+    "Programming/C/Операции/Инкремент и декремент.md",
+    "Programming/C/Переменные и их описание.md",
+    "Programming/C/Операции/Логические операции.md",
+    "Programming/C/Операции/Иные (экзотические) операции.md",
+    "Programming/C/Операции/Арифметические операции.md",
+    "Programming/C/Операции/Приоритет операций.md",
+    "Programming/C/Типы данных/Строки и строковые литералы/Обработка строковых литералов.md",
+    "Programming/C/Типы данных/Встроенные (базовые) типы данных/Литералы (константы) разных типов.md",
+    "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
     "pasted_sources/Pasted image 20260117001457.png",
     "Programming/C/Операции/Операции и выражения.md",
     "Programming/C/Операции/Побитовые операции.md",
     "Programming/C/Операции/Присваивания и модификации.md",
     "Programming/C/Операции/Операция sizeof.md",
-    "Programming/C/Операции/Арифметические операции.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Целые числа.md",
     "Programming/C/Типы данных/Определение размеров типов и величин.md",
     "Programming/C/Типы данных/Ключевые слова в C.md",
-    "Programming/C/Синтаксические собенности языка.md",
     "Programming/C/Типы данных/Леводопустимые выражения.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Булевы значения.md",
-    "Programming/C/Операции/Иные (экзотические) операции.md",
-    "Programming/C/Типы данных/Встроенные (базовые) типы данных/Комплексные и мнимые числа.md",
-    "Programming/C/Типы данных/Встроенные (базовые) типы данных/Встроенные типы данных.md",
-    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип и оператор выбора.md",
-    "Programming/C/Типы данных/Перечислимый тип/Перечислимый тип.md",
-    "Programming/C/Типы данных/Перечислимый тип/Введение констант с помощью перечислимого типа.md",
-    "Programming/C/Типы данных/Использование указателей/Организация 'выходных' параметров функций.md",
-    "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
-    "Programming/C/Типы данных/Встроенные (базовые) типы данных/Литералы (константы) разных типов.md",
-    "Programming/C/Типы данных/Встроенные (базовые) типы данных/Числа с плавающей точкой.md",
-    "Programming/C/Стандартная библиотека/stdio.h/printf. Форматированный вывод.md",
     "Programming/C/Типы данных/Без названия.base",
-    "Programming/C/Операции/Приоритет операций.md",
-    "Programming/C/Операции/Логические операции.md",
-    "Programming/C/Операции/Операции знака.md",
     "pasted_sources/Pasted image 20260116224854.png",
     "pasted_sources/Pasted image 20251124213249.png",
     "pasted_sources/Pasted image 20251115010556.png",
@@ -233,7 +262,6 @@
     "pasted_sources/Pasted image 20251114225136.png",
     "pasted_sources/Pasted image 20251114221449.png",
     "pasted_sources/Pasted image 20251113223941.png",
-    "pasted_sources/Pasted image 20251112004355.png",
     "Gaming/Might and Magic 8/Places (MM8)",
     "Gaming/Might and Magic 8",
     "Gaming/Might and Magic 7/Places (MM7)",
