@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Стандартная библиотека/stdio.h/printf. Форматированный вывод.md",
+                "file": "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "printf. Форматированный вывод"
+              "title": "Строки"
             }
           }
         ],
@@ -237,14 +237,16 @@
   },
   "active": "5cdd1caa9308e604",
   "lastOpenFiles": [
+    "Programming/C/Операции/Инкремент и декремент.md",
+    "Programming/C/Контроль хода программы и иные операторы/Циклы.md",
+    "pasted_sources/Pasted image 20260127223115.png",
+    "Programming/C/Стандартная библиотека/stdio.h/printf. Форматированный вывод.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Литералы (константы) разных типов.md",
     "Programming/C/Типы данных/Строки и строковые литералы/Строки.md",
     "Programming/C/Типы данных/Строки и строковые литералы/Обработка строковых литералов.md",
     "Programming/C/Переменные и их описание.md",
     "Programming/C/Побочный эффект и точки следования.md",
     "Programming/C/Синтаксические собенности языка.md",
-    "Programming/C/Стандартная библиотека/stdio.h/printf. Форматированный вывод.md",
-    "Programming/C/Операции/Инкремент и декремент.md",
     "Programming/C/Типы данных/Преобразование типов.md",
     "Programming/C/Операции/Арифметические операции.md",
     "Programming/C/Операции/Операции и выражения.md",
@@ -263,7 +265,6 @@
     "Programming/C/Функции.md",
     "Programming/C/Обработка ошибок при обращениях к ОС.md",
     "Programming/C/Заголовочные файлы.md",
-    "Programming/C/Выражения и операторы.md",
     "pasted_sources/Pasted image 20260117001457.png",
     "Programming/C/Типы данных/Без названия.base",
     "pasted_sources/Pasted image 20260116224854.png",
@@ -275,7 +276,6 @@
     "pasted_sources/Pasted image 20251114232448.png",
     "pasted_sources/Pasted image 20251114225136.png",
     "pasted_sources/Pasted image 20251114221449.png",
-    "pasted_sources/Pasted image 20251113223941.png",
     "Gaming/Might and Magic 8/Places (MM8)",
     "Gaming/Might and Magic 8",
     "Gaming/Might and Magic 7/Places (MM7)",
