@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
+                "file": "Programming/C/Типы данных/Массивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Адреса и указатели"
+              "title": "Массивы"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ассоци",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,15 +164,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1618bb8583419403",
+  "active": "47c93b965ec146ef",
   "lastOpenFiles": [
+    "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
     "Programming/C/Типы данных/Массивы.md",
     "pasted_sources/Pasted image 20260315194102.png",
     "Programming/C/Стандартная библиотека/stdio.h/printf. Форматированный вывод.md",
     "Programming/C/Переменные и их описание.md",
     "Programming/C/Операции/Арифметические операции.md",
     "Programming/C/Операции/Операции и выражения.md",
-    "Programming/C/Типы данных/Использование указателей/Адреса и указатели.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Литералы (константы) разных типов.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Числа с плавающей точкой.md",
     "Programming/C/Типы данных/Встроенные (базовые) типы данных/Целые числа.md",
