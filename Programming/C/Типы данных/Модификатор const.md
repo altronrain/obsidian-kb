@@ -48,7 +48,7 @@ double rates[3] = {88.9, 100.12, 59.54};
 const double locked[4] = {0.08, 0.075, 0.0725, 0.07};
 
 double *pnc = rates;        /* допустимо */
-pnc = locked;               /* не допустимо */
+pnc = locked;               /* недопустимо */
 pnc = &rates[3];            /* допустимо */
 pnc++;                      /* допустимо */
 ```
