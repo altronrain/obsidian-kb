@@ -23,7 +23,7 @@ char * strcat(char *string1, const char *string2);
 Данная функция принимает дополнительный аргумент аргумент, указывающий максимальное количество добавляемых символов.
 Пример формального прототипа (описания):
 ```c
-char * strncat(char * string1, const char *string2, unsigned num);
+char * strncat(char * string1, const char *string2, size_t num);
 ```
 
 Что делает данная функция:
