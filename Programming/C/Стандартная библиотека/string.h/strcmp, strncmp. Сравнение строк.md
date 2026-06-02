@@ -40,7 +40,7 @@ strcmp ("apples", "apple") возвращает 1
 Данная функция сравнивает строки до тех пор, пока не обнаружит в них различия либо пока не сравнит `n` символов в строках, указанное в третьем аргументе.
 Пример формального прототипа (описания):
 ```c
-char * strncat(char * string1, const char *string2, size_t num);
+char * strncmp(const char * string1, const char *string2, size_t num);
 ```
 
 Что делает данная функция:
