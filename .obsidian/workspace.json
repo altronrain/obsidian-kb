@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Типы файлов.md",
+                "file": "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Права доступа к файлам.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы файлов"
+              "title": "Права доступа к файлам"
             }
           }
         ],
@@ -195,10 +195,15 @@
   },
   "active": "cdc0d2f74f6a1a54",
   "lastOpenFiles": [
+    "pasted_sources/Pasted image 20260614200846.png",
+    "pasted_sources/Pasted image 20260614200409.png",
+    "pasted_sources/Pasted image 20260614195723.png",
+    "pasted_sources/Pasted image 20260614193840.png",
+    "pasted_sources/Pasted image 20260614193340.png",
     "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Связь файлов.md",
+    "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Типы файлов.md",
     "pasted_sources/Pasted image 20260612222859.png",
     "pasted_sources/Pasted image 20260612222850.png",
-    "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Типы файлов.md",
     "Unix и Linux/Устройство и архитектура Unix и Linux/Файловая система/Файлы и файловая система.md",
     "pasted_sources/Pasted image 20260612221147.png",
     "pasted_sources/Pasted image 20260612221128.png",
@@ -231,12 +236,8 @@
     "Programming/C/Типы данных/Управление памятью и классы хранения",
     "Programming/C/Стандартная библиотека/stdlib.h",
     "pasted_sources/Pasted image 20260428204905.png",
-    "pasted_sources/Pasted image 20260426215535.png",
     "Unix и Linux/Устройство и архитектура Unix и Linux",
     "Programming/C/Стандартная библиотека/string.h",
-    "pasted_sources/Pasted image 20260322152512.png",
-    "pasted_sources/Pasted image 20260315194102.png",
-    "pasted_sources/Pasted image 20260305210903.png",
     "Без названия 1.base",
     "Без названия.base",
     "Книги/2026"
